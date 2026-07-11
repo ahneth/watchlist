@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store Item Monitor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .store-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: bold;
+            color: white;
+        }
+        .zbfghk { background-color: #e67e22; }
+        .mybookone { background-color: #9b59b6; }
+        .bandai { background-color: #e74c3c; }
+        
+        .loading { text-align: center; font-style: italic; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>New Items Monitor</h1>
+    <p style="text-align:center;">Updates automatically via GitHub Actions</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Item Name</th>
+                <th>Store</th>
+                <th>Time Listed (Monitored)</th>
+            </tr>
+        </thead>
+        <tbody id="item-list">
+            <tr><td colspan="3" class="loading">Loading database...</td></tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function getStoreClass(storeName) {
+        if (storeName.includes('Zbfghk')) return 'zbfghk';
+        if (storeName.includes('MyBookOne')) return 'mybookone';
+        if (storeName.includes('Bandai')) return 'bandai';
+        return '';
+    }
+
+    async function loadData() {
+        try {
+            // Append timestamp to bust browser cache
+            const response = await fetch(`data.json?t=${new Date().getTime()}`);
+            if (!response.ok) throw new Error("No database found yet.");
+            
+            const data = await response.json();
+            const tbody = document.getElementById('item-list');
+            tbody.innerHTML = '';
+
+            if (data.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="3" class="loading">No items found yet. Wait for the scraper to run.</td></tr>';
+                return;
+            }
+
+            data.forEach(item => {
+                const dateObj = new Date(item.dateFound);
+                const row = document.createElement('tr');
+                
+                row.innerHTML = `
+                    <td><strong>${item.title}</strong></td>
+                    <td><span class="store-badge ${getStoreClass(item.store)}">${item.store}</span></td>
+                    <td>${dateObj.toLocaleDateString()} ${dateObj.toLocaleTimeString()}</td>
+                `;
+                tbody.appendChild(row);
+            });
+        } catch (error) {
+            document.getElementById('item-list').innerHTML = 
+                `<tr><td colspan="3" class="loading">Database is empty or loading failed. The scraper might need to run first.</td></tr>`;
+        }
+    }
+
+    // Initialize
+    loadData();
+</script>
+
+</body>
+</html>
