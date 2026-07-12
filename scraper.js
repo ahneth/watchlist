@@ -43,6 +43,11 @@ async function scrape() {
             name: "Hobbyland",
             url: "https://www.hobbylandeshop.com/product-category/model_area/gundam_zone",
             selector: '.q-px-sm.q-pb-sm'
+        },
+        {
+            name: "Up-Next",
+            url: "https://zh.up-next.com.hk/collections/model-kit/Bandai",
+            selector: '.info'
         }
     ];
 
