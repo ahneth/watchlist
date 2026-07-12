@@ -2,7 +2,7 @@ name: Monitor Stores
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 6 hours
+    - cron: '16 * * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
