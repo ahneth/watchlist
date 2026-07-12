@@ -24,6 +24,11 @@
             --store-bookone-bg: #ede9fe;
             --store-bandai: #ef4444;
             --store-bandai-bg: #fee2e2;
+
+            --store-books: #f59e0b;
+            --store-books-bg: #fef3c7;
+            --store-models: #8b5cf6;
+            --store-models-bg: #ede9fe;
         }
 
         * {
@@ -142,10 +147,12 @@
             letter-spacing: 0.025em;
         }
 
-        .badge-zbfghk { color: var(--store-zbfghk); background-color: var(--store-zbfghk-bg); }
-        .badge-mybookone { color: var(--store-bookone); background-color: var(--store-bookone-bg); }
-        .badge-bandai { color: var(--store-bandai); background-color: var(--store-bandai-bg); }
-
+        .badge-zbfghk { color: var(--store-books); background-color: var(--store-books-bg); }
+        .badge-mybookone { color: var(--store-books); background-color: var(--store-books-bg); }
+        .badge-bandai { color: var(--store-models); background-color: var(--store-models-bg); }
+        .badge-hobbyland { color: var(--store-models); background-color: var(--store-models-bg); }
+        .badge-upnexy { color: var(--store-models); background-color: var(--store-models-bg); }
+        
         .card-footer {
             display: flex;
             align-items: center;
@@ -190,6 +197,8 @@
             <button class="filter-btn" data-filter="Zbfghk">Zbfghk</button>
             <button class="filter-btn" data-filter="MyBookOne">MyBookOne</button>
             <button class="filter-btn" data-filter="Bandai">Bandai</button>
+            <button class="filter-btn" data-filter="Hobbyland">Hobbyland</button>
+            <button class="filter-btn" data-filter="Up-Next">Up-Next</button>
         </div>
     </header>
 
@@ -218,6 +227,8 @@
             if (nameLower.includes('zbfghk')) return { class: 'badge-zbfghk', label: 'Zbfghk' };
             if (nameLower.includes('mybookone')) return { class: 'badge-mybookone', label: 'MyBookOne' };
             if (nameLower.includes('bandai')) return { class: 'badge-bandai', label: 'Bandai' };
+            if (nameLower.includes('hobbyland')) return { class: 'badge-hobbyland', label: 'Hobbyland' };
+            if (nameLower.includes('up-next')) return { class: 'badge-upnext', label: 'Up-Next' };
             return { class: '', label: storeName };
         }
 
