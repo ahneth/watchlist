@@ -1,1361 +1,1581 @@
 {
-  "url": "https://p-bandai.com/hk/search?limit=20&sortType=NewArrival&offset=0&_f_productStatuses=On,Waiting&_f_categories=04-004",
+  "url": "https://www.hobbylandeshop.com/product-category/model_area/gundam_zone",
   "data": [
     {
-      "text": "Skip to main content\n\npresented by Bandai Namco Group.",
-      "tag": ".l-header-wrapper"
+      "text": "campaign\n買任何現貨產品滿HK$499即享包郵優惠\nclose",
+      "tag": ".bg-primary.text-white.notification-banner"
     },
     {
-      "text": "presented by Bandai Namco Group.Sign InAREA/LANGUAGE",
-      "tag": ".l-header-top"
+      "text": "campaign\n買任何現貨產品滿HK$499即享包郵優惠",
+      "tag": ".notification-content"
     },
     {
-      "text": "presented by Bandai Namco Group.Sign InAREA/LANGUAGE",
-      "tag": ".l-header-top--row"
+      "text": "買任何現貨產品滿HK$499即享包郵優惠",
+      "tag": ".notification-marquee"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-top--col"
+      "text": "買任何現貨產品滿HK$499即享包郵優惠",
+      "tag": ".notification-text"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-top__logo"
+      "text": "close",
+      "tag": ".q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-top__logo-link"
+      "text": "menu\n選單\n登入\nfavorite\nshopping_cart",
+      "tag": ".q-toolbar.row.no-wrap.items-center.toolbar-container.row"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-top__logo-txt"
+      "text": "menu\n選單",
+      "tag": ".row.col-2.col-sm-5.items-center"
     },
     {
-      "text": "Sign InAREA/LANGUAGE",
-      "tag": ".l-header-top--col"
+      "text": "menu\n選單",
+      "tag": ".cursor-pointer.row.items-center"
     },
     {
-      "text": "Sign In",
-      "tag": ".l-header-top__func-link"
+      "text": "搜尋.....(製造商/產品名稱.......)search",
+      "tag": ".q-field__inner.relative-position.col.self-stretch"
     },
     {
-      "text": "Sign In",
-      "tag": ".l-header-top__func-txt"
+      "text": "搜尋.....(製造商/產品名稱.......)search",
+      "tag": ".q-field__control.relative-position.row.no-wrap"
     },
     {
-      "text": "AREA/LANGUAGE",
-      "tag": ".l-header-top__func-link"
+      "text": "搜尋.....(製造商/產品名稱.......)",
+      "tag": ".q-field__control-container.col.relative-position.row.no-wrap.q-anchor--skip"
     },
     {
-      "text": "AREA/LANGUAGE",
-      "tag": ".l-header-top__func-txt"
+      "text": "搜尋.....(製造商/產品名稱.......)",
+      "tag": ".q-field__label.no-pointer-events.absolute.ellipsis"
     },
     {
-      "text": "SERIESSHOPSBRANDSCATEGORIESHOT DEALSSPECIAL FEATURES & PRODUCTS",
-      "tag": ".l-header-main"
+      "text": "search",
+      "tag": ".q-field__append.q-field__marginal.row.no-wrap.items-center"
     },
     {
-      "text": "SERIESSHOPSBRANDSCATEGORIESHOT DEALSSPECIAL FEATURES & PRODUCTS",
-      "tag": ".l-header-main--row"
+      "text": "登入\nfavorite\nshopping_cart",
+      "tag": ".grey-5.row.justify-end.items-center.col-5.col-sm-5"
     },
     {
-      "text": "SERIESSHOPSBRANDSCATEGORIESHOT DEALSSPECIAL FEATURES & PRODUCTS",
-      "tag": ".l-header-main--col"
+      "text": "language繁體expand_more",
+      "tag": ".gt-sm.locale-switcher"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header--sp"
+      "text": "language繁體expand_more",
+      "tag": ".locale-button.row.items-center.justify-center.cursor-pointer"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header--wrap"
+      "text": "favorite",
+      "tag": ".q-px-sm"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header--row"
+      "text": "shopping_cart",
+      "tag": ".cursor-pointer.cart-icon-box"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header--col"
+      "text": "shopping_cart",
+      "tag": ".gt-sm"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header__logo"
+      "text": "搜尋.....(製造商/產品名稱.......)\nsearch",
+      "tag": ".category-menu.bg-maincolor.q-px-md"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header__logo-link"
+      "text": "Home",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header__logo-txt"
+      "text": "現貨熱賣",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "HOMESEARCH RESULTS",
-      "tag": ".l-breadcrumb__inner"
+      "text": "BANDAI 景品 MegaHouse GoodSmile 壽屋/kotobukiya Scales Figure sofvi膠公仔 扭蛋 其他 Action Figure",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "HOMESEARCH RESULTS",
-      "tag": ".l-breadcrumb__list--wrap.ps"
+      "text": "BANDAI 景品 MegaHouse GoodSmile 壽屋/kotobukiya Scales Figure sofvi膠公仔 扭蛋 其他 Action Figure",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "HOME",
-      "tag": ".l-breadcrumb__list-link"
+      "text": "BANDAI 景品 MegaHouse GoodSmile 壽屋/kotobukiya Scales Figure sofvi膠公仔 扭蛋 其他 Action Figure",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "SEARCH RESULTS",
-      "tag": ".o-search-head"
+      "text": "BANDAI",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SEARCH RESULTS",
-      "tag": ".o-search-header"
+      "text": "MegaHouse",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SEARCH RESULTS",
-      "tag": ".o-search-series__header"
+      "text": "GoodSmile",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SEARCH RESULTS",
-      "tag": ".p-section-h2__title.u-align-left.u-mb--0"
+      "text": "壽屋/kotobukiya",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "FILTER",
-      "tag": ".o-searchSidebar__header"
+      "text": "Scales Figure",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "FILTER",
-      "tag": ".o-searchSidebar__ttl"
+      "text": "sofvi膠公仔",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SELECTED FILTERS\nReset filters\nAvailable Items\nUpcoming Items\nModel Kits",
-      "tag": ".o-searchSidebar__filter"
+      "text": "Action Figure",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SELECTED FILTERS\nReset filters",
-      "tag": ".o-searchSidebar__filter-head"
+      "text": "模型專區expand_more高達專區 chevron_right品牌 chevron_right改造/模型套件",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm.active"
     },
     {
-      "text": "SELECTED FILTERS",
-      "tag": ".o-searchSidebar__subttl.o-searchSidebar__ttl--accordion"
+      "text": "高達專區 chevron_right品牌 chevron_right改造/模型套件",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "SALES STATUS\nUpcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "高達專區 chevron_right品牌 chevron_right改造/模型套件",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "SALES STATUS\nUpcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
-      "tag": ".is-open.c-accordion--search.c-accordion"
+      "text": "高達專區 chevron_right品牌 chevron_right改造/模型套件",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "Upcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
-      "tag": ".c-accordion__body"
+      "text": "高達專區 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "Upcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
-      "tag": ".c-accordion__body-inner"
+      "text": "品牌 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SERIES",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "改造/模型套件",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SERIES",
-      "tag": ".c-accordion--search.c-accordion"
+      "text": "Figureexpand_more景品 chevron_rightPVC Figure chevron_right",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "SHOP",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "景品 chevron_rightPVC Figure chevron_right",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "SHOP",
-      "tag": ".c-accordion--search.c-accordion"
+      "text": "景品 chevron_rightPVC Figure chevron_right",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "BRAND",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "景品 chevron_rightPVC Figure chevron_right",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "BRAND",
-      "tag": ".c-accordion--search.c-accordion"
+      "text": "景品 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "CATEGORY\nModel Kits (47)",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "PVC Figure chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "CATEGORY\nModel Kits (47)",
-      "tag": ".is-open.c-accordion--search.c-accordion"
+      "text": "McFarlane Toys Bandai GoodSmile 海洋堂 Threezero Medicos Action Toys Takara Tomy 其他 千值練",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "Model Kits (47)",
-      "tag": ".c-accordion__body"
+      "text": "McFarlane Toys Bandai GoodSmile 海洋堂 Threezero Medicos Action Toys Takara Tomy 其他 千值練",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "Model Kits (47)",
-      "tag": ".c-accordion__body-inner"
+      "text": "McFarlane Toys Bandai GoodSmile 海洋堂 Threezero Medicos Action Toys Takara Tomy 其他 千值練",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "SCHEDULED SHIPPING",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "McFarlane Toys",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SCHEDULED SHIPPING",
-      "tag": ".c-accordion--search.c-accordion"
+      "text": "Bandai",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "DELIVERY GROUP",
-      "tag": ".o-searchSidebar__accordion"
+      "text": "海洋堂",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "DELIVERY GROUP",
-      "tag": ".c-accordion--search.c-accordion"
+      "text": "Threezero",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "47 results",
-      "tag": ".o-search-result__head"
+      "text": "Medicos",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "47 results",
-      "tag": ".o-search-result__number"
+      "text": "Action Toys",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "47 results",
-      "tag": ".o-search-result__number-result.u-display--pcOnly"
+      "text": "Takara Tomy",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "47 results",
-      "tag": ".o-search-result__number-result.u-display--spOnly"
+      "text": "千值練",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "FILTER (3)",
-      "tag": ".o-search-result__modal.u-display--spOnly"
+      "text": "模型工具expand_more工具 chevron_right",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "FILTER (3)",
-      "tag": ".o-search-result__button"
+      "text": "工具 chevron_right",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "PER PAGE :2040",
-      "tag": ".o-search-sort__inputSelect.o-search-sort__inputSelect--num.u-display--spOnly"
+      "text": "工具 chevron_right",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "PER PAGE :\n\n20\n40",
-      "tag": ".o-search-narrow"
+      "text": "工具 chevron_right",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "PER PAGE :\n\n20\n40",
-      "tag": ".o-search-narrow-number__wrap.u-display--pcOnly"
+      "text": "工具 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "PER PAGE :",
-      "tag": ".o-search-narrow-number__lead"
+      "text": "玩具專區expand_moreSuper Hero chevron_right可愛角色 chevron_right積木玩具 chevron_right兒童玩具 chevron_right",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA FULL SET W/O GUM (WITH BONUS GIFT)",
-      "tag": ".c-product__title"
+      "text": "Super Hero chevron_right可愛角色 chevron_right積木玩具 chevron_right兒童玩具 chevron_right",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "HK$‌804.00",
-      "tag": ".c-product__price"
+      "text": "Super Hero chevron_right可愛角色 chevron_right積木玩具 chevron_right兒童玩具 chevron_right",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "HK$‌804.00",
-      "tag": ".c-product__price-currency"
+      "text": "Super Hero chevron_right可愛角色 chevron_right積木玩具 chevron_right兒童玩具 chevron_right",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "‌804.00",
-      "tag": ".c-product__price-amount"
+      "text": "Super Hero chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOMUSCLE / GAORHINOS & GAOMADILLO W/O GUM",
-      "tag": ".c-product__title"
+      "text": "可愛角色 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "HK$‌580.00",
-      "tag": ".c-product__price"
+      "text": "積木玩具 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "HK$‌580.00",
-      "tag": ".c-product__price-currency"
+      "text": "兒童玩具 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "‌580.00",
-      "tag": ".c-product__price-amount"
+      "text": "盒玩扭蛋區expand_more扭蛋 chevron_right盒玩 chevron_right食玩 chevron_right盲盒 chevron_right",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "扭蛋 chevron_right盒玩 chevron_right食玩 chevron_right盲盒 chevron_right",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "扭蛋 chevron_right盒玩 chevron_right食玩 chevron_right盲盒 chevron_right",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "扭蛋 chevron_right盒玩 chevron_right食玩 chevron_right盲盒 chevron_right",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "扭蛋 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "盒玩 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM",
-      "tag": ".c-product__title"
+      "text": "食玩 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "HK$‌281.00",
-      "tag": ".c-product__price"
+      "text": "盲盒 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "HK$‌281.00",
-      "tag": ".c-product__price-currency"
+      "text": "桌遊卡牌expand_more游戲分類 chevron_right卡牌配件 chevron_right",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "‌281.00",
-      "tag": ".c-product__price-amount"
+      "text": "游戲分類 chevron_right卡牌配件 chevron_right",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "游戲分類 chevron_right卡牌配件 chevron_right",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "游戲分類 chevron_right卡牌配件 chevron_right",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "游戲分類 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "卡牌配件 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "主機與遊戲expand_more主機 chevron_right遊戲 chevron_right配件 chevron_right",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM",
-      "tag": ".c-product__title"
+      "text": "主機 chevron_right遊戲 chevron_right配件 chevron_right",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "HK$‌444.00",
-      "tag": ".c-product__price"
+      "text": "主機 chevron_right遊戲 chevron_right配件 chevron_right",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "HK$‌444.00",
-      "tag": ".c-product__price-currency"
+      "text": "主機 chevron_right遊戲 chevron_right配件 chevron_right",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "‌444.00",
-      "tag": ".c-product__price-amount"
+      "text": "主機 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOTURTLE & GAOTOPPY W/O GUM",
-      "tag": ".c-product__title"
+      "text": "遊戲 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "HK$‌256.00",
-      "tag": ".c-product__price"
+      "text": "配件 chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "HK$‌256.00",
-      "tag": ".c-product__price-currency"
+      "text": "TakaraTomyexpand_moreTomica chevron_rightBeyblade陀螺 彈蓋人 Pokemon TomyTec",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "‌256.00",
-      "tag": ".c-product__price-amount"
+      "text": "Tomica chevron_rightBeyblade陀螺 彈蓋人 Pokemon TomyTec",
+      "tag": ".sub-menu.text-subtitle1"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOPEACOCK & GAOCOBRA W/O GUM",
-      "tag": ".c-product__title"
+      "text": "Tomica chevron_rightBeyblade陀螺 彈蓋人 Pokemon TomyTec",
+      "tag": ".sub-menu-content"
     },
     {
-      "text": "HK$‌268.00",
-      "tag": ".c-product__price"
+      "text": "Tomica chevron_rightBeyblade陀螺 彈蓋人 Pokemon TomyTec",
+      "tag": ".sub-menu-list"
     },
     {
-      "text": "HK$‌268.00",
-      "tag": ".c-product__price-currency"
+      "text": "Tomica chevron_right",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "‌268.00",
-      "tag": ".c-product__price-amount"
+      "text": "Beyblade陀螺",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "彈蓋人",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "Pokemon",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "TomyTec",
+      "tag": ".sub-menu-item.text-subtitle1.text-black.text-bold.row.justify-between.items-center"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "動漫週邊",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "特價專區",
+      "tag": ".menu-item.text-center.row.items-center.q-mx-sm"
     },
     {
-      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM",
-      "tag": ".c-product__title"
+      "text": "搜尋.....(製造商/產品名稱.......)\nsearch",
+      "tag": ".lt-md.q-py-sm"
     },
     {
-      "text": "HK$‌441.00",
-      "tag": ".c-product__price"
+      "text": "搜尋.....(製造商/產品名稱.......)\nsearch",
+      "tag": ".q-field__inner.relative-position.col.self-stretch"
     },
     {
-      "text": "HK$‌441.00",
-      "tag": ".c-product__price-currency"
+      "text": "搜尋.....(製造商/產品名稱.......)\nsearch",
+      "tag": ".q-field__control.relative-position.row.no-wrap.bg-white33.text-grey-10"
     },
     {
-      "text": "‌441.00",
-      "tag": ".c-product__price-amount"
+      "text": "搜尋.....(製造商/產品名稱.......)",
+      "tag": ".q-field__label.no-pointer-events.absolute.ellipsis.text-grey-1"
     },
     {
-      "text": "MG 1/100 RX-O[N] UNICORN GUNDAM02 BANSHEE NORN [FINAL BATTLE Ver.] [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "高達專區\n主頁 / 模型專區 / 高達專區\ntune\n篩選\n按最新排序\n按人氣排序\n按價格：由低到高\n按價格：由高到低",
+      "tag": ".top-nav"
     },
     {
-      "text": "HK$‌358.00",
-      "tag": ".c-product__price"
+      "text": "高達專區\n主頁 / 模型專區 / 高達專區\ntune\n篩選\n按最新排序\n按人氣排序\n按價格：由低到高\n按價格：由高到低",
+      "tag": ".top-nav-bar"
     },
     {
-      "text": "HK$‌358.00",
-      "tag": ".c-product__price-currency"
+      "text": "高達專區",
+      "tag": ".text-h5.q-mb-sm.row.items-center.q-gutter-sm"
     },
     {
-      "text": "‌358.00",
-      "tag": ".c-product__price-amount"
+      "text": "主頁 / 模型專區 / 高達專區",
+      "tag": ".text-h6.breadcrumb-container"
     },
     {
-      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "模型專區",
+      "tag": ".breadcrumb-link"
     },
     {
-      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "高達專區",
+      "tag": ".breadcrumb-current"
     },
     {
-      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "分類一覽",
+      "tag": ".text-grey-7.text-bold.text-subtitle1"
     },
     {
-      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "HG [High Grade]RG [Real Grade]MG [Master Grade]PG [Perfect Grade]EG [Entry Grade]Full MechanicsSD高達",
+      "tag": ".q-mt-md.amazon-category-list"
     },
     {
-      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HG [High Grade]",
+      "tag": ".category-item"
     },
     {
-      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "HG [High Grade]",
+      "tag": ".category-link"
     },
     {
-      "text": "HK$‌120.00",
-      "tag": ".c-product__price"
+      "text": "HG [High Grade]",
+      "tag": ".category-name"
     },
     {
-      "text": "HK$‌120.00",
-      "tag": ".c-product__price-currency"
+      "text": "RG [Real Grade]",
+      "tag": ".category-item"
     },
     {
-      "text": "‌120.00",
-      "tag": ".c-product__price-amount"
+      "text": "RG [Real Grade]",
+      "tag": ".category-link"
     },
     {
-      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "RG [Real Grade]",
+      "tag": ".category-name"
     },
     {
-      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "MG [Master Grade]",
+      "tag": ".category-item"
     },
     {
-      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "MG [Master Grade]",
+      "tag": ".category-link"
     },
     {
-      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "MG [Master Grade]",
+      "tag": ".category-name"
     },
     {
-      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "PG [Perfect Grade]",
+      "tag": ".category-item"
     },
     {
-      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "PG [Perfect Grade]",
+      "tag": ".category-link"
     },
     {
-      "text": "HK$‌163.00",
-      "tag": ".c-product__price"
+      "text": "PG [Perfect Grade]",
+      "tag": ".category-name"
     },
     {
-      "text": "HK$‌163.00",
-      "tag": ".c-product__price-currency"
+      "text": "EG [Entry Grade]",
+      "tag": ".category-item"
     },
     {
-      "text": "‌163.00",
-      "tag": ".c-product__price-amount"
+      "text": "EG [Entry Grade]",
+      "tag": ".category-link"
     },
     {
-      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "EG [Entry Grade]",
+      "tag": ".category-name"
     },
     {
-      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "Full Mechanics",
+      "tag": ".category-item"
     },
     {
-      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "Full Mechanics",
+      "tag": ".category-link"
     },
     {
-      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "Full Mechanics",
+      "tag": ".category-name"
     },
     {
-      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "SD高達",
+      "tag": ".category-item"
     },
     {
-      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "SD高達",
+      "tag": ".category-link"
     },
     {
-      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "SD高達",
+      "tag": ".category-name"
     },
     {
-      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "庫存狀態全部 已售罄 有庫存",
+      "tag": ".q-mb-md"
     },
     {
-      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "庫存狀態",
+      "tag": ".text-grey-7.text-bold.text-subtitle1"
     },
     {
-      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "全部 已售罄 有庫存",
+      "tag": ".q-option-group.q-gutter-x-sm"
     },
     {
-      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "已售罄",
+      "tag": ".q-radio.cursor-pointer.no-outline.row.inline.no-wrap.items-center"
     },
     {
-      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "已售罄",
+      "tag": ".q-radio__label.q-anchor--skip"
     },
     {
-      "text": "HK$‌152.00",
-      "tag": ".c-product__price"
+      "text": "有庫存",
+      "tag": ".q-radio.cursor-pointer.no-outline.row.inline.no-wrap.items-center"
     },
     {
-      "text": "HK$‌152.00",
-      "tag": ".c-product__price-currency"
+      "text": "有庫存",
+      "tag": ".q-radio__label.q-anchor--skip"
     },
     {
-      "text": "‌152.00",
-      "tag": ".c-product__price-amount"
+      "text": "產品標籤",
+      "tag": ".text-grey-7.text-bold.text-subtitle1"
     },
     {
-      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "2026-07-11",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "2026-07-10",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "2026-07-09",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "2026-07-08",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "2026-07-07",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "2026-07-06",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌239.00",
-      "tag": ".c-product__price"
+      "text": "2026-07-04",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌239.00",
-      "tag": ".c-product__price-currency"
+      "text": "2026-07-03",
+      "tag": ".tag-btn"
     },
     {
-      "text": "‌239.00",
-      "tag": ".c-product__price-amount"
+      "text": "2026-07-02",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "2026-06-30",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "2026-06-29",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "2026-06-27",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "Figure-rise",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "20250525",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "20260512",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌298.00",
-      "tag": ".c-product__price"
+      "text": "20260516",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌298.00",
-      "tag": ".c-product__price-currency"
+      "text": "20260525",
+      "tag": ".tag-btn"
     },
     {
-      "text": "‌298.00",
-      "tag": ".c-product__price-amount"
+      "text": "20260604",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "20260611",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "9527",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "BanGDream",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "BEYBLADEX",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "BLOKEES",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "DSPIAE",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌206.00",
-      "tag": ".c-product__price"
+      "text": "DX系列",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌206.00",
-      "tag": ".c-product__price-currency"
+      "text": "Figma",
+      "tag": ".tag-btn"
     },
     {
-      "text": "‌206.00",
-      "tag": ".c-product__price-amount"
+      "text": "Figuarts mini",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "FiguartsZero",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "Frame Arms",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "Frame Arms Girl",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "Funtec",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "Gaia",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "Madwork",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌103.00",
-      "tag": ".c-product__price"
+      "text": "MegaHouse",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌103.00",
-      "tag": ".c-product__price-currency"
+      "text": "Megami Device",
+      "tag": ".tag-btn"
     },
     {
-      "text": "‌103.00",
-      "tag": ".c-product__price-amount"
+      "text": "Metal Build",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "MODEROID",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "Mr. Hobby",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "PLAMAX",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "POP UP PARADE",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "Robot魂",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "S.H.Figuarts",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "S.H.MonsterArts",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "創彩少女庭園",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "向上委員會",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "最新特價商品",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "熱門商品",
+      "tag": ".tag-btn"
     },
     {
-      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "聖鬥士聖衣神話EX",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌293.00",
-      "tag": ".c-product__price"
+      "text": "超合金",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HK$‌293.00",
-      "tag": ".c-product__price-currency"
+      "text": "超合金魂",
+      "tag": ".tag-btn"
     },
     {
-      "text": "‌293.00",
-      "tag": ".c-product__price-amount"
+      "text": "黏土人",
+      "tag": ".tag-btn"
     },
     {
-      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動武鬥傳G高達】諾貝爾高達\nHK$\n138.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動武鬥傳G高達】諾貝爾高達\nHK$\n138.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "[現貨] HG 1/144【機動武鬥傳G高達】諾貝爾高達\nHK$\n138.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "[現貨] HG 1/144【機動武鬥傳G高達】諾貝爾高達",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n138.00",
+      "tag": ".price-display"
     },
     {
-      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "HK$\n138.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "HK$‌131.00",
-      "tag": ".c-product__price"
+      "text": "HK$",
+      "tag": ".currency-small"
     },
     {
-      "text": "HK$‌131.00",
-      "tag": ".c-product__price-currency"
+      "text": "現貨\nfavorite_border\n[現貨] BB戰士 SD 393【SD高達外傳 自護萬歲篇】傳說系列 全武裝騎士高達\nHK$\n118.00\nHK$\n98.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "‌131.00",
-      "tag": ".c-product__price-amount"
+      "text": "現貨\nfavorite_border\n[現貨] BB戰士 SD 393【SD高達外傳 自護萬歲篇】傳說系列 全武裝騎士高達\nHK$\n118.00\nHK$\n98.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
-      "tag": ".p-col__item"
+      "text": "[現貨] BB戰士 SD 393【SD高達外傳 自護萬歲篇】傳說系列 全武裝騎士高達\nHK$\n118.00\nHK$\n98.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
-      "tag": ".o-box"
+      "text": "[現貨] BB戰士 SD 393【SD高達外傳 自護萬歲篇】傳說系列 全武裝騎士高達",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "HK$\n118.00\nHK$\n98.00",
+      "tag": ".price-display"
     },
     {
-      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "HK$\n118.00\nHK$\n98.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n118.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
     },
     {
-      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]",
-      "tag": ".c-product__title"
+      "text": "118.00",
+      "tag": ".price-text.text-strike"
     },
     {
-      "text": "HK$‌146.00",
-      "tag": ".c-product__price"
+      "text": "HK$\n98.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "HK$‌146.00",
-      "tag": ".c-product__price-currency"
+      "text": "98.00",
+      "tag": ".price-text"
     },
     {
-      "text": "‌146.00",
-      "tag": ".c-product__price-amount"
+      "text": "現貨\nfavorite_border\n[現貨] HGBF 1/144 【高達創戰者】超卓渣古\nHK$\n158.00\nHK$\n118.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "1-20 / 47\n\n1\n2\n3",
-      "tag": ".p-pagination__wrap.u-mt-fixed--24"
+      "text": "現貨\nfavorite_border\n[現貨] HGBF 1/144 【高達創戰者】超卓渣古\nHK$\n158.00\nHK$\n118.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "1-20 / 47",
-      "tag": ".p-pagination__lead"
+      "text": "[現貨] HGBF 1/144 【高達創戰者】超卓渣古\nHK$\n158.00\nHK$\n118.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "1\n2\n3",
-      "tag": ".p-pagination"
+      "text": "[現貨] HGBF 1/144 【高達創戰者】超卓渣古",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "RECOMMENDATIONS",
-      "tag": ".p-section-h2__title.u-align-left"
+      "text": "HK$\n158.00\nHK$\n118.00",
+      "tag": ".price-display"
     },
     {
-      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION\n\nHK$‌60.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "HK$\n158.00\nHK$\n118.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION\n\nHK$‌60.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "HK$\n158.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
     },
     {
-      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION\n\nHK$‌60.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "158.00",
+      "tag": ".price-text.text-strike"
     },
     {
-      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION",
-      "tag": ".c-product__title"
+      "text": "HK$\n118.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "HK$‌60.00",
-      "tag": ".c-product__price"
+      "text": "118.00",
+      "tag": ".price-text"
     },
     {
-      "text": "HK$‌60.00",
-      "tag": ".c-product__price-currency"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達】GNX-Y901TW 須佐之男\nHK$\n128.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "‌60.00",
-      "tag": ".c-product__price-amount"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達】GNX-Y901TW 須佐之男\nHK$\n128.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY\n\nHK$‌490.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "[現貨] HG 1/144【機動戰士高達】GNX-Y901TW 須佐之男\nHK$\n128.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY\n\nHK$‌490.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "[現貨] HG 1/144【機動戰士高達】GNX-Y901TW 須佐之男",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY\n\nHK$‌490.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n128.00",
+      "tag": ".price-display"
     },
     {
-      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY",
-      "tag": ".c-product__title"
+      "text": "HK$\n128.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "HK$‌490.00",
-      "tag": ".c-product__price"
+      "text": "現貨\nfavorite_border\n[現貨] HGBF 1/144【機動戰士高達】超卓京寶凡\nHK$\n188.00\nHK$\n138.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "HK$‌490.00",
-      "tag": ".c-product__price-currency"
+      "text": "現貨\nfavorite_border\n[現貨] HGBF 1/144【機動戰士高達】超卓京寶凡\nHK$\n188.00\nHK$\n138.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "‌490.00",
-      "tag": ".c-product__price-amount"
+      "text": "[現貨] HGBF 1/144【機動戰士高達】超卓京寶凡\nHK$\n188.00\nHK$\n138.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE\n\nHK$‌1,620.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "[現貨] HGBF 1/144【機動戰士高達】超卓京寶凡",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE\n\nHK$‌1,620.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "HK$\n188.00\nHK$\n138.00",
+      "tag": ".price-display"
     },
     {
-      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE\n\nHK$‌1,620.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n188.00\nHK$\n138.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE",
-      "tag": ".c-product__title"
+      "text": "HK$\n188.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
     },
     {
-      "text": "HK$‌1,620.00",
-      "tag": ".c-product__price"
+      "text": "188.00",
+      "tag": ".price-text.text-strike"
     },
     {
-      "text": "HK$‌1,620.00",
-      "tag": ".c-product__price-currency"
+      "text": "HK$\n138.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "‌1,620.00",
-      "tag": ".c-product__price-amount"
+      "text": "138.00",
+      "tag": ".price-text"
     },
     {
-      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]\n\nHK$‌271.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144 【高達創戰者】高達X魔王\nHK$\n178.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]\n\nHK$‌271.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144 【高達創戰者】高達X魔王\nHK$\n178.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]\n\nHK$‌271.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "[現貨] HG 1/144 【高達創戰者】高達X魔王\nHK$\n178.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]",
-      "tag": ".c-product__title"
+      "text": "[現貨] HG 1/144 【高達創戰者】高達X魔王",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "HK$‌271.00",
-      "tag": ".c-product__price"
+      "text": "HK$\n178.00",
+      "tag": ".price-display"
     },
     {
-      "text": "HK$‌271.00",
-      "tag": ".c-product__price-currency"
+      "text": "HK$\n178.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "‌271.00",
-      "tag": ".c-product__price-amount"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達】卡巴卡利\nHK$\n118.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE\n\nHK$‌1,460.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達】卡巴卡利\nHK$\n118.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE\n\nHK$‌1,460.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "[現貨] HG 1/144【機動戰士高達】卡巴卡利\nHK$\n118.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE\n\nHK$‌1,460.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "[現貨] HG 1/144【機動戰士高達】卡巴卡利",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE",
-      "tag": ".c-product__title"
+      "text": "HK$\n118.00",
+      "tag": ".price-display"
     },
     {
-      "text": "HK$‌1,460.00",
-      "tag": ".c-product__price"
+      "text": "HK$\n118.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "HK$‌1,460.00",
-      "tag": ".c-product__price-currency"
+      "text": "現貨\nfavorite_border\n[現貨] HGUC 153 1/144 【機動戰士高達 UC】獨角獸高達2號機報喪女妖 (獨角獸模式)\nHK$\n108.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "‌1,460.00",
-      "tag": ".c-product__price-amount"
+      "text": "現貨\nfavorite_border\n[現貨] HGUC 153 1/144 【機動戰士高達 UC】獨角獸高達2號機報喪女妖 (獨角獸模式)\nHK$\n108.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG\n\nHK$‌1,730.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "[現貨] HGUC 153 1/144 【機動戰士高達 UC】獨角獸高達2號機報喪女妖 (獨角獸模式)\nHK$\n108.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG\n\nHK$‌1,730.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "[現貨] HGUC 153 1/144 【機動戰士高達 UC】獨角獸高達2號機報喪女妖 (獨角獸模式)",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG\n\nHK$‌1,730.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n108.00",
+      "tag": ".price-display"
     },
     {
-      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG",
-      "tag": ".c-product__title"
+      "text": "HK$\n108.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "HK$‌1,730.00",
-      "tag": ".c-product__price"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達】馬沙専用格魯古古 Ver.2.0\nHK$\n328.00\nHK$\n268.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "HK$‌1,730.00",
-      "tag": ".c-product__price-currency"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達】馬沙専用格魯古古 Ver.2.0\nHK$\n328.00\nHK$\n268.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "‌1,730.00",
-      "tag": ".c-product__price-amount"
+      "text": "[現貨] MG 1/100【機動戰士高達】馬沙専用格魯古古 Ver.2.0\nHK$\n328.00\nHK$\n268.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "METAL BUILD KÄMPFER\n\nHK$‌2,160.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "[現貨] MG 1/100【機動戰士高達】馬沙専用格魯古古 Ver.2.0",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "METAL BUILD KÄMPFER\n\nHK$‌2,160.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "HK$\n328.00\nHK$\n268.00",
+      "tag": ".price-display"
     },
     {
-      "text": "METAL BUILD KÄMPFER\n\nHK$‌2,160.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n328.00\nHK$\n268.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "METAL BUILD KÄMPFER",
-      "tag": ".c-product__title"
+      "text": "HK$\n328.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
     },
     {
-      "text": "HK$‌2,160.00",
-      "tag": ".c-product__price"
+      "text": "328.00",
+      "tag": ".price-text.text-strike"
     },
     {
-      "text": "HK$‌2,160.00",
-      "tag": ".c-product__price-currency"
+      "text": "HK$\n268.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "‌2,160.00",
-      "tag": ".c-product__price-amount"
+      "text": "268.00",
+      "tag": ".price-text"
     },
     {
-      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED\n\nHK$‌650.00\n\nPRE-ORDER",
-      "tag": ".c-product"
+      "text": "[現貨] MG 1/100【機動戰士高達0083】RX-78 GP01Fb Gundam GP01 Fullburnern\nHK$\n228.00\nHK$\n162.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED\n\nHK$‌650.00\n\nPRE-ORDER",
-      "tag": ".c-product__link"
+      "text": "[現貨] MG 1/100【機動戰士高達0083】RX-78 GP01Fb Gundam GP01 Fullburnern",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED\n\nHK$‌650.00\n\nPRE-ORDER",
-      "tag": ".c-product__text"
+      "text": "HK$\n228.00\nHK$\n162.00",
+      "tag": ".price-display"
     },
     {
-      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED",
-      "tag": ".c-product__title"
+      "text": "HK$\n228.00\nHK$\n162.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "HK$‌650.00",
-      "tag": ".c-product__price"
+      "text": "HK$\n228.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
     },
     {
-      "text": "HK$‌650.00",
-      "tag": ".c-product__price-currency"
+      "text": "228.00",
+      "tag": ".price-text.text-strike"
     },
     {
-      "text": "‌650.00",
-      "tag": ".c-product__price-amount"
+      "text": "HK$\n162.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "TOP",
-      "tag": ".l-footer-pageTop"
+      "text": "162.00",
+      "tag": ".price-text"
     },
     {
-      "text": "TOP",
-      "tag": ".l-footer-pageTop__text"
+      "text": "限\n2",
+      "tag": ".sale-limit-badge"
     },
     {
-      "text": "BACK TO TOP",
-      "tag": ".l-footer-top"
+      "text": "[預訂] MG 1/100【機動戰士高達SEED FREEDOM ASTRAY】自由迷惘高達 紅色機 《訂價:$479》\nHK$\n200.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "BACK TO TOP",
-      "tag": ".l-footer-top__text"
+      "text": "[預訂] MG 1/100【機動戰士高達SEED FREEDOM ASTRAY】自由迷惘高達 紅色機 《訂價:$479》",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "About Us\n\nWHAT IS PREMIUM BANDAI?\nSITE MAP",
-      "tag": ".l-footer-main__col"
+      "text": "HK$\n200.00",
+      "tag": ".price-display"
     },
     {
-      "text": "About Us",
-      "tag": ".l-footer-main__title"
+      "text": "HK$\n200.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "WHAT IS PREMIUM BANDAI?",
-      "tag": ".l-footer-main__list-link"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達0083】RX-78 GP01 GUNDAM\nHK$\n178.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "SITE MAP",
-      "tag": ".l-footer-main__list-link"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達0083】RX-78 GP01 GUNDAM\nHK$\n178.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Company Information\n\nCOMPANY PROFILE\nSUSTAINABILITY",
-      "tag": ".l-footer-main__col"
+      "text": "[現貨] MG 1/100【機動戰士高達0083】RX-78 GP01 GUNDAM\nHK$\n178.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Company Information",
-      "tag": ".l-footer-main__title"
+      "text": "[現貨] MG 1/100【機動戰士高達0083】RX-78 GP01 GUNDAM",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "COMPANY PROFILE",
-      "tag": ".l-footer-main__list-link"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達0083】RX-78GP02A 高達試作2號機（賽薩里斯）\nHK$\n288.00\nHK$\n258.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "SUSTAINABILITY",
-      "tag": ".l-footer-main__list-link"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達0083】RX-78GP02A 高達試作2號機（賽薩里斯）\nHK$\n288.00\nHK$\n258.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "User's Guide\n\nFAQS\nCONTACT US\nPAYMENT METHODS\nSHIPPING INFO\nRETURNS INFO\nSAFETY GUIDE",
-      "tag": ".l-footer-main__col"
+      "text": "[現貨] MG 1/100【機動戰士高達0083】RX-78GP02A 高達試作2號機（賽薩里斯）\nHK$\n288.00\nHK$\n258.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "User's Guide",
-      "tag": ".l-footer-main__title"
+      "text": "[現貨] MG 1/100【機動戰士高達0083】RX-78GP02A 高達試作2號機（賽薩里斯）",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "FAQS",
-      "tag": ".l-footer-main__list-link"
+      "text": "HK$\n288.00\nHK$\n258.00",
+      "tag": ".price-display"
     },
     {
-      "text": "CONTACT US",
-      "tag": ".l-footer-main__list-link"
+      "text": "HK$\n288.00\nHK$\n258.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "PAYMENT METHODS",
-      "tag": ".l-footer-main__list-link"
+      "text": "HK$\n288.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
     },
     {
-      "text": "SHIPPING INFO",
-      "tag": ".l-footer-main__list-link"
+      "text": "288.00",
+      "tag": ".price-text.text-strike"
     },
     {
-      "text": "RETURNS INFO",
-      "tag": ".l-footer-main__list-link"
+      "text": "HK$\n258.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "SAFETY GUIDE",
-      "tag": ".l-footer-main__list-link"
+      "text": "258.00",
+      "tag": ".price-text"
     },
     {
-      "text": "Terms",
-      "tag": ".l-footer-main__title"
+      "text": "現貨\nfavorite_border\n[現貨] HGUC 1/144【機動戰士高達NT】RX-0 獨角獸高達 3號機 菲尼克斯\nHK$\n188.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "LEGAL NOTICE",
-      "tag": ".l-footer-main__list-link"
+      "text": "現貨\nfavorite_border\n[現貨] HGUC 1/144【機動戰士高達NT】RX-0 獨角獸高達 3號機 菲尼克斯\nHK$\n188.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "TERMS OF USE",
-      "tag": ".l-footer-main__list-link"
+      "text": "[現貨] HGUC 1/144【機動戰士高達NT】RX-0 獨角獸高達 3號機 菲尼克斯\nHK$\n188.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "PURCHASE AGREEMENT",
-      "tag": ".l-footer-main__list-link"
+      "text": "[現貨] HGUC 1/144【機動戰士高達NT】RX-0 獨角獸高達 3號機 菲尼克斯",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "PRIVACY POLICY",
-      "tag": ".l-footer-main__list-link"
+      "text": "HK$\n188.00",
+      "tag": ".price-display"
     },
     {
-      "text": "COOKIES SETTINGS",
-      "tag": ".optanon-show-settings.l-footer-main__list-link"
+      "text": "HK$\n188.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "ACCESSIBILITY STATEMENT",
-      "tag": ".l-footer-main__list-link"
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】古辛 REBAKE\nHK$\n98.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "SOCIAL MEDIA",
-      "tag": ".l-footer-sns"
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】古辛 REBAKE\nHK$\n98.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "SOCIAL MEDIA",
-      "tag": ".l-footer-sns__title"
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】古辛 REBAKE\nHK$\n98.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "presented by Bandai Namco Group.\n\nCLICK FOR FULL COPYRIGHT INFORMATION\n(C) BANDAI SPIRITS 2018",
-      "tag": ".l-footer-bottom"
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】古辛 REBAKE",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "presented by Bandai Namco Group.\n\nCLICK FOR FULL COPYRIGHT INFORMATION\n(C) BANDAI SPIRITS 2018",
-      "tag": ".l-footer-bottom__inner"
+      "text": "HK$\n98.00",
+      "tag": ".price-display"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-footer-bottom__logo"
+      "text": "HK$\n98.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-footer-bottom__logo-link"
+      "text": "現貨\nfavorite_border\n[現貨] HGUC 1/144 【機動戰士Z高達】拜亞蘭特\nHK$\n178.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-footer-bottom__logo-text"
+      "text": "現貨\nfavorite_border\n[現貨] HGUC 1/144 【機動戰士Z高達】拜亞蘭特\nHK$\n178.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "CLICK FOR FULL COPYRIGHT INFORMATION\n(C) BANDAI SPIRITS 2018",
-      "tag": ".l-footer-bottom__text"
+      "text": "[現貨] HGUC 1/144 【機動戰士Z高達】拜亞蘭特\nHK$\n178.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Privacy Policy",
-      "tag": ".ot-cookie-policy-link"
+      "text": "[現貨] HGUC 1/144 【機動戰士Z高達】拜亞蘭特",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "Cookie Settings",
-      "tag": ".ot-sdk-three.ot-sdk-columns"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】百里\nHK$\n98.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "More information",
-      "tag": ".privacy-notice-link"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】百里\nHK$\n98.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Strictly Necessary CookiesAlways Active",
-      "tag": ".ot-acc-hdr.ot-always-active-group"
+      "text": "[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】百里\nHK$\n98.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Strictly Necessary Cookies",
-      "tag": ".ot-cat-header"
+      "text": "[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】百里",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "Always Active",
-      "tag": ".ot-always-active"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】格雷茲改\nHK$\n88.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "View Vendor Details",
-      "tag": ".ot-hlst-cntr"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】格雷茲改\nHK$\n88.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Performance Cookies  Performance Cookies",
-      "tag": ".ot-acc-hdr"
+      "text": "[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】格雷茲改\nHK$\n88.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Performance Cookies",
-      "tag": ".ot-cat-header"
+      "text": "[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】格雷茲改",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "Performance Cookies",
-      "tag": ".ot-tgl"
+      "text": "HK$\n88.00",
+      "tag": ".price-display"
     },
     {
-      "text": "Performance Cookies",
-      "tag": ".ot-label-txt"
+      "text": "HK$\n88.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "Functional Cookies  Functional Cookies",
-      "tag": ".ot-acc-hdr"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】GUNDAM GUSION\nHK$\n98.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "Functional Cookies",
-      "tag": ".ot-cat-header"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】GUNDAM GUSION\nHK$\n98.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Functional Cookies",
-      "tag": ".ot-tgl"
+      "text": "[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】GUNDAM GUSION\nHK$\n98.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Functional Cookies",
-      "tag": ".ot-label-txt"
+      "text": "[現貨] HG 1/144【機動戰士高達 鐵血的孤兒】GUNDAM GUSION",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "Targeting Cookies  Targeting Cookies",
-      "tag": ".ot-acc-hdr"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144 【機動戰士高達W】沙漠高達\nHK$\n118.00\nHK$\n108.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "Targeting Cookies",
-      "tag": ".ot-cat-header"
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144 【機動戰士高達W】沙漠高達\nHK$\n118.00\nHK$\n108.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Targeting Cookies",
-      "tag": ".ot-tgl"
+      "text": "[現貨] HG 1/144 【機動戰士高達W】沙漠高達\nHK$\n118.00\nHK$\n108.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Targeting Cookies",
-      "tag": ".ot-label-txt"
+      "text": "[現貨] HG 1/144 【機動戰士高達W】沙漠高達",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "Search IconFilter IconClear checkbox label labelApply Cancel",
-      "tag": ".ot-lst-subhdr"
+      "text": "HK$\n118.00\nHK$\n108.00",
+      "tag": ".price-display"
     },
     {
-      "text": "Search Icon",
-      "tag": ".ot-search-cntr"
+      "text": "HK$\n118.00\nHK$\n108.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
     },
     {
-      "text": "Filter Icon",
-      "tag": ".ot-fltr-cntr"
+      "text": "HK$\n108.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
     },
     {
-      "text": "checkbox label label",
-      "tag": ".ot-chkbox"
+      "text": "108.00",
+      "tag": ".price-text"
     },
     {
-      "text": "checkbox label",
-      "tag": ".ot-label-txt"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達】G戰機及高達 Ver.2.0 實戰配色\nHK$\n680.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "label",
-      "tag": ".ot-label-status"
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達】G戰機及高達 Ver.2.0 實戰配色\nHK$\n680.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Apply Cancel",
-      "tag": ".ot-fltr-btns"
+      "text": "[現貨] MG 1/100【機動戰士高達】G戰機及高達 Ver.2.0 實戰配色\nHK$\n680.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
-      "tag": ".ot-sel-all"
+      "text": "[現貨] MG 1/100【機動戰士高達】G戰機及高達 Ver.2.0 實戰配色",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
     },
     {
-      "text": "Consent Leg.Interest",
-      "tag": ".ot-sel-all-hdr"
+      "text": "HK$\n680.00",
+      "tag": ".price-display"
     },
     {
-      "text": "Consent",
-      "tag": ".ot-consent-hdr"
+      "text": "HK$\n680.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
     },
     {
-      "text": "Leg.Interest",
-      "tag": ".ot-li-hdr"
+      "text": "現貨\nfavorite_border\n[現貨] HGAW 1/144【機動戰士高達】GX-9900-DV 高達 X Divider\nHK$\n138.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
     },
     {
-      "text": "checkbox label label checkbox label label checkbox label label",
-      "tag": ".ot-sel-all-chkbox"
+      "text": "現貨\nfavorite_border\n[現貨] HGAW 1/144【機動戰士高達】GX-9900-DV 高達 X Divider\nHK$\n138.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
     },
     {
-      "text": "Confirm My Choices",
-      "tag": ".ot-pc-footer.ot-pc-scrollbar"
+      "text": "[現貨] HGAW 1/144【機動戰士高達】GX-9900-DV 高達 X Divider\nHK$\n138.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
     },
     {
-      "text": "Confirm My Choices",
-      "tag": ".ot-btn-container"
+      "text": "[現貨] HGAW 1/144【機動戰士高達】GX-9900-DV 高達 X Divider",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/100【超時空要塞Δ】VF-31E 齊格飛 查克·馬斯坦古機\nHK$\n278.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/100【超時空要塞Δ】VF-31E 齊格飛 查克·馬斯坦古機\nHK$\n278.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
+    },
+    {
+      "text": "[現貨] HG 1/100【超時空要塞Δ】VF-31E 齊格飛 查克·馬斯坦古機\nHK$\n278.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
+    },
+    {
+      "text": "[現貨] HG 1/100【超時空要塞Δ】VF-31E 齊格飛 查克·馬斯坦古機",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "HK$\n278.00",
+      "tag": ".price-display"
+    },
+    {
+      "text": "HK$\n278.00",
+      "tag": ".text-bold.text-subtitle1.row.items-start.justify-center"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達】全裝甲型ZZ高達 Ver. Ka\nHK$\n758.00\nHK$\n698.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] MG 1/100【機動戰士高達】全裝甲型ZZ高達 Ver. Ka\nHK$\n758.00\nHK$\n698.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
+    },
+    {
+      "text": "[現貨] MG 1/100【機動戰士高達】全裝甲型ZZ高達 Ver. Ka\nHK$\n758.00\nHK$\n698.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
+    },
+    {
+      "text": "[現貨] MG 1/100【機動戰士高達】全裝甲型ZZ高達 Ver. Ka",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "HK$\n758.00\nHK$\n698.00",
+      "tag": ".price-display"
+    },
+    {
+      "text": "HK$\n758.00\nHK$\n698.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
+    },
+    {
+      "text": "HK$\n758.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
+    },
+    {
+      "text": "758.00",
+      "tag": ".price-text.text-strike"
+    },
+    {
+      "text": "HK$\n698.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
+    },
+    {
+      "text": "698.00",
+      "tag": ".price-text"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】GRIMGERDE\nHK$\n98.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】GRIMGERDE\nHK$\n98.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
+    },
+    {
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】GRIMGERDE\nHK$\n98.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
+    },
+    {
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】GRIMGERDE",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】百錬\nHK$\n88.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】百錬\nHK$\n88.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
+    },
+    {
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】百錬\nHK$\n88.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
+    },
+    {
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】百錬",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達】梅薩 M02型 (高曼專用機）\nHK$\n248.00\nHK$\n199.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HG 1/144【機動戰士高達】梅薩 M02型 (高曼專用機）\nHK$\n248.00\nHK$\n199.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
+    },
+    {
+      "text": "[現貨] HG 1/144【機動戰士高達】梅薩 M02型 (高曼專用機）\nHK$\n248.00\nHK$\n199.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
+    },
+    {
+      "text": "[現貨] HG 1/144【機動戰士高達】梅薩 M02型 (高曼專用機）",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "HK$\n248.00\nHK$\n199.00",
+      "tag": ".price-display"
+    },
+    {
+      "text": "HK$\n248.00\nHK$\n199.00",
+      "tag": ".row.items-start.justify-center.q-gutter-x-xs"
+    },
+    {
+      "text": "HK$\n248.00",
+      "tag": ".regular-price-item.text-grey-6.row.items-start"
+    },
+    {
+      "text": "248.00",
+      "tag": ".price-text.text-strike"
+    },
+    {
+      "text": "HK$\n199.00",
+      "tag": ".sale-price-item.text-bold.row.items-start"
+    },
+    {
+      "text": "199.00",
+      "tag": ".price-text"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】Hyakuren (Amida)\nHK$\n88.00\n加入購物車",
+      "tag": ".product-col.col-6.col-sm-4.col-md-4.col-lg-3"
+    },
+    {
+      "text": "現貨\nfavorite_border\n[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】Hyakuren (Amida)\nHK$\n88.00\n加入購物車",
+      "tag": ".goods-item.text-center.goods-item-hover"
+    },
+    {
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】Hyakuren (Amida)\nHK$\n88.00\n加入購物車",
+      "tag": ".q-px-sm.q-pb-sm"
+    },
+    {
+      "text": "[現貨] HGIBO 1/144【機動戰士高達 鐵血的孤兒】Hyakuren (Amida)",
+      "tag": ".goods-name.q-mt-xs.text-subtitle2.text-grey-8"
+    },
+    {
+      "text": "keyboard_arrow_left\n1\n2\n3\n…\n15\nkeyboard_arrow_right",
+      "tag": ".q-pa-lg.q-pt-xl.flex.flex-center"
+    },
+    {
+      "text": "keyboard_arrow_left\n1\n2\n3\n…\n15\nkeyboard_arrow_right",
+      "tag": ".q-pagination.row.no-wrap.items-center"
+    },
+    {
+      "text": "keyboard_arrow_left\n1\n2\n3\n…\n15\nkeyboard_arrow_right",
+      "tag": ".q-pagination__content.row.no-wrap.items-center"
+    },
+    {
+      "text": "keyboard_arrow_left",
+      "tag": ".q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row"
+    },
+    {
+      "text": "2\n3",
+      "tag": ".q-pagination__middle.row.justify-center"
+    },
+    {
+      "text": "keyboard_arrow_right",
+      "tag": ".q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row"
+    },
+    {
+      "text": "關於我們購買前須知服務條款隱私權政策送貨服務細則店鋪地址\n電子郵件:info@hobbylandeshop.comWhatsApp:+852 9475 5963",
+      "tag": ".footer-top.q-gutter-md.row.justify-between"
+    },
+    {
+      "text": "關於我們購買前須知服務條款隱私權政策送貨服務細則店鋪地址",
+      "tag": ".friend-links"
+    },
+    {
+      "text": "電子郵件:info@hobbylandeshop.comWhatsApp:+852 9475 5963",
+      "tag": ".contact-info"
+    },
+    {
+      "text": "All Rights Reserved | Hobby Land ©2023",
+      "tag": ".footer-bottom.text-center"
+    },
+    {
+      "text": "cookie\n本網站使用 Cookie 來改善您的瀏覽體驗。繼續使用本網站即表示您同意我們使用 Cookie。\n了解更多\n拒絕\n接受",
+      "tag": ".q-banner.row.items-center.q-banner--dense.q-banner--top-padding.cookie-banner.bg-grey-9.text-white"
+    },
+    {
+      "text": "cookie",
+      "tag": ".q-banner__avatar.col-auto.row.items-center.self-start"
+    },
+    {
+      "text": "本網站使用 Cookie 來改善您的瀏覽體驗。繼續使用本網站即表示您同意我們使用 Cookie。\n了解更多",
+      "tag": ".q-banner__content.col.text-body2"
+    },
+    {
+      "text": "本網站使用 Cookie 來改善您的瀏覽體驗。繼續使用本網站即表示您同意我們使用 Cookie。\n了解更多",
+      "tag": ".cookie-content"
+    },
+    {
+      "text": "本網站使用 Cookie 來改善您的瀏覽體驗。繼續使用本網站即表示您同意我們使用 Cookie。",
+      "tag": ".cookie-message"
+    },
+    {
+      "text": "了解更多",
+      "tag": ".cookie-link"
+    },
+    {
+      "text": "拒絕\n接受",
+      "tag": ".q-banner__actions.row.items-center.justify-end.col-all"
     }
   ]
 }
