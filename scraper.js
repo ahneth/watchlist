@@ -24,7 +24,7 @@ async function scrape() {
         {
             name: "Zbfghk",
             url: "https://zbfghk.org/store/%E6%96%B0%E8%B2%A8%E3%80%82-c137759257",
-            selector: '.product-title, .ec-title, .title, .name, h3' 
+            selector: '.grid-product__title' 
         },
         {
             name: "MyBookOne",
