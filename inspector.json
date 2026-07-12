@@ -2,36 +2,1360 @@
   "url": "https://p-bandai.com/hk/search?limit=20&sortType=NewArrival&offset=0&_f_productStatuses=On,Waiting&_f_categories=04-004",
   "data": [
     {
-      "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-min__logo"
+      "text": "Skip to main content\n\npresented by Bandai Namco Group.",
+      "tag": ".l-header-wrapper"
+    },
+    {
+      "text": "presented by Bandai Namco Group.Sign InAREA/LANGUAGE",
+      "tag": ".l-header-top"
+    },
+    {
+      "text": "presented by Bandai Namco Group.Sign InAREA/LANGUAGE",
+      "tag": ".l-header-top--row"
     },
     {
       "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-min__link"
+      "tag": ".l-header-top--col"
     },
     {
       "text": "presented by Bandai Namco Group.",
-      "tag": ".l-header-min__logo-text"
+      "tag": ".l-header-top__logo"
     },
     {
-      "text": "PAGE NOT AVAILABLE",
-      "tag": ".p-section-h1__title.u-mb--48.p-oswald"
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header-top__logo-link"
     },
     {
-      "text": "The page you have attempted to access can not be displayed. Please try again later.",
-      "tag": ".p-lead.p-lead--ll.p-lead--ll-variable.u-align-center.p-Source-Sans-3"
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header-top__logo-txt"
     },
     {
-      "text": "無法顯示網頁",
-      "tag": ".p-section-h1__title.u-mb--32.p-Noto-Sans-TC"
+      "text": "Sign InAREA/LANGUAGE",
+      "tag": ".l-header-top--col"
     },
     {
-      "text": "無法顯示您嘗試瀏覽的網頁。\n請稍後再試。",
-      "tag": ".p-lead.p-lead--ll.p-lead--ll-variable.u-align-center.p-Noto-Sans-TC"
+      "text": "Sign In",
+      "tag": ".l-header-top__func-link"
     },
     {
-      "text": "PAGE INDISPONIBLE",
-      "tag": ".p-section-h1__title.u-mb--32.p-oswald"
+      "text": "Sign In",
+      "tag": ".l-header-top__func-txt"
+    },
+    {
+      "text": "AREA/LANGUAGE",
+      "tag": ".l-header-top__func-link"
+    },
+    {
+      "text": "AREA/LANGUAGE",
+      "tag": ".l-header-top__func-txt"
+    },
+    {
+      "text": "SERIESSHOPSBRANDSCATEGORIESHOT DEALSSPECIAL FEATURES & PRODUCTS",
+      "tag": ".l-header-main"
+    },
+    {
+      "text": "SERIESSHOPSBRANDSCATEGORIESHOT DEALSSPECIAL FEATURES & PRODUCTS",
+      "tag": ".l-header-main--row"
+    },
+    {
+      "text": "SERIESSHOPSBRANDSCATEGORIESHOT DEALSSPECIAL FEATURES & PRODUCTS",
+      "tag": ".l-header-main--col"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header--sp"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header--wrap"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header--row"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header--col"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header__logo"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header__logo-link"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-header__logo-txt"
+    },
+    {
+      "text": "HOMESEARCH RESULTS",
+      "tag": ".l-breadcrumb__inner"
+    },
+    {
+      "text": "HOMESEARCH RESULTS",
+      "tag": ".l-breadcrumb__list--wrap.ps"
+    },
+    {
+      "text": "HOME",
+      "tag": ".l-breadcrumb__list-link"
+    },
+    {
+      "text": "SEARCH RESULTS",
+      "tag": ".o-search-head"
+    },
+    {
+      "text": "SEARCH RESULTS",
+      "tag": ".o-search-header"
+    },
+    {
+      "text": "SEARCH RESULTS",
+      "tag": ".o-search-series__header"
+    },
+    {
+      "text": "SEARCH RESULTS",
+      "tag": ".p-section-h2__title.u-align-left.u-mb--0"
+    },
+    {
+      "text": "FILTER",
+      "tag": ".o-searchSidebar__header"
+    },
+    {
+      "text": "FILTER",
+      "tag": ".o-searchSidebar__ttl"
+    },
+    {
+      "text": "SELECTED FILTERS\nReset filters\nAvailable Items\nUpcoming Items\nModel Kits",
+      "tag": ".o-searchSidebar__filter"
+    },
+    {
+      "text": "SELECTED FILTERS\nReset filters",
+      "tag": ".o-searchSidebar__filter-head"
+    },
+    {
+      "text": "SELECTED FILTERS",
+      "tag": ".o-searchSidebar__subttl.o-searchSidebar__ttl--accordion"
+    },
+    {
+      "text": "SALES STATUS\nUpcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "SALES STATUS\nUpcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
+      "tag": ".is-open.c-accordion--search.c-accordion"
+    },
+    {
+      "text": "Upcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
+      "tag": ".c-accordion__body"
+    },
+    {
+      "text": "Upcoming Items (0)\nAvailable Items (47)\nNo Longer Available Items (3048)",
+      "tag": ".c-accordion__body-inner"
+    },
+    {
+      "text": "SERIES",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "SERIES",
+      "tag": ".c-accordion--search.c-accordion"
+    },
+    {
+      "text": "SHOP",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "SHOP",
+      "tag": ".c-accordion--search.c-accordion"
+    },
+    {
+      "text": "BRAND",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "BRAND",
+      "tag": ".c-accordion--search.c-accordion"
+    },
+    {
+      "text": "CATEGORY\nModel Kits (47)",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "CATEGORY\nModel Kits (47)",
+      "tag": ".is-open.c-accordion--search.c-accordion"
+    },
+    {
+      "text": "Model Kits (47)",
+      "tag": ".c-accordion__body"
+    },
+    {
+      "text": "Model Kits (47)",
+      "tag": ".c-accordion__body-inner"
+    },
+    {
+      "text": "SCHEDULED SHIPPING",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "SCHEDULED SHIPPING",
+      "tag": ".c-accordion--search.c-accordion"
+    },
+    {
+      "text": "DELIVERY GROUP",
+      "tag": ".o-searchSidebar__accordion"
+    },
+    {
+      "text": "DELIVERY GROUP",
+      "tag": ".c-accordion--search.c-accordion"
+    },
+    {
+      "text": "47 results",
+      "tag": ".o-search-result__head"
+    },
+    {
+      "text": "47 results",
+      "tag": ".o-search-result__number"
+    },
+    {
+      "text": "47 results",
+      "tag": ".o-search-result__number-result.u-display--pcOnly"
+    },
+    {
+      "text": "47 results",
+      "tag": ".o-search-result__number-result.u-display--spOnly"
+    },
+    {
+      "text": "FILTER (3)",
+      "tag": ".o-search-result__modal.u-display--spOnly"
+    },
+    {
+      "text": "FILTER (3)",
+      "tag": ".o-search-result__button"
+    },
+    {
+      "text": "PER PAGE :2040",
+      "tag": ".o-search-sort__inputSelect.o-search-sort__inputSelect--num.u-display--spOnly"
+    },
+    {
+      "text": "PER PAGE :\n\n20\n40",
+      "tag": ".o-search-narrow"
+    },
+    {
+      "text": "PER PAGE :\n\n20\n40",
+      "tag": ".o-search-narrow-number__wrap.u-display--pcOnly"
+    },
+    {
+      "text": "PER PAGE :",
+      "tag": ".o-search-narrow-number__lead"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA FULL SET W/O GUM (WITH BONUS GIFT)",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌804.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌804.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌804.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOMUSCLE / GAORHINOS & GAOMADILLO W/O GUM",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌580.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌580.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌580.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM\n\nHK$‌281.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOWALLABY W/O GUM",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌281.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌281.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌281.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM\n\nHK$‌444.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOHUNTER W/O GUM",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌444.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌444.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌444.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOTURTLE & GAOTOPPY W/O GUM",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌256.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌256.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌256.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] POWER ANIMAL SERIES EXTRA GAOPEACOCK & GAOCOBRA W/O GUM",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌268.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌268.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌268.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM\n\nHK$‌441.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "SMP [SHOKUGAN MODELING PROJECT] HYAKUJU GATTAI GAOKING W/O GUM",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌441.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌441.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌441.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "MG 1/100 RX-O[N] UNICORN GUNDAM02 BANSHEE NORN [FINAL BATTLE Ver.] [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌358.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌358.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌358.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HG 1/144 01 GUNDAM [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌120.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌120.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌120.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]\n\nHK$‌163.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌163.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌163.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌163.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]\n\nHK$‌120.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HG 1/144 RICK DIAS (EARLY TYPE) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HG 1/144 SINANJU STEIN (UNICORN Ver.) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌152.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌152.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌152.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]\n\nHK$‌239.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "MG 1/100 GUNDAM X UNIT 3 [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌239.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌239.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌239.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]\n\nHK$‌298.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0 [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌298.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌298.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌298.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌206.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "MG 1/100 ZETAplus(UNICORN Ver.) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌206.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌206.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌206.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]\n\nHK$‌103.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HGUC 1/144 GMII SEMI STRIKER [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌103.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌103.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌103.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]\n\nHK$‌152.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HGUC 1/144 GAEL CHAN’S SILVER BULLET [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]\n\nHK$‌293.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "MG 1/100 GEARA DOGA(UNICORN Ver.) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌293.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌293.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌293.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]\n\nHK$‌131.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HGUC 1/144 GEARA ZULU (CUARON USE) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌131.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌131.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌131.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
+      "tag": ".p-col__item"
+    },
+    {
+      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
+      "tag": ".o-box"
+    },
+    {
+      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]\n\nHK$‌146.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE) [Sep 2026 Delivery]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌146.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌146.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌146.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "1-20 / 47\n\n1\n2\n3",
+      "tag": ".p-pagination__wrap.u-mt-fixed--24"
+    },
+    {
+      "text": "1-20 / 47",
+      "tag": ".p-pagination__lead"
+    },
+    {
+      "text": "1\n2\n3",
+      "tag": ".p-pagination"
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "tag": ".p-section-h2__title.u-align-left"
+    },
+    {
+      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION\n\nHK$‌60.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION\n\nHK$‌60.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION\n\nHK$‌60.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "ONE PIECE CARD GAME PREMIUM CARD COLLECTION 29TH ANNIVERSARY EDITION",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌60.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌60.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌60.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY\n\nHK$‌490.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY\n\nHK$‌490.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY\n\nHK$‌490.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "S.H.Figuarts ULTRAMAN GINGAVICTORY",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌490.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌490.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌490.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE\n\nHK$‌1,620.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE\n\nHK$‌1,620.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE\n\nHK$‌1,620.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "GUNDAM FIX FIGURATION METAL COMPOSITE MS-06D ZAKU DESERT TYPE",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌1,620.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌1,620.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌1,620.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]\n\nHK$‌271.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]\n\nHK$‌271.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]\n\nHK$‌271.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "HG 1/144 HYDRA GUNDAM [2026年12月發送]",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌271.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌271.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌271.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE\n\nHK$‌1,460.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE\n\nHK$‌1,460.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE\n\nHK$‌1,460.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "METAL ROBOT SPIRITS <SIDE MS> PROTOTYPE ASSHIMAR TR-3[KEHHAR]SPACE TYPE",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌1,460.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌1,460.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌1,460.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG\n\nHK$‌1,730.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG\n\nHK$‌1,730.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG\n\nHK$‌1,730.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "THE ROBOT SPIRITS <SIDE MS> GREAT ZEONG",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌1,730.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌1,730.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌1,730.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "METAL BUILD KÄMPFER\n\nHK$‌2,160.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "METAL BUILD KÄMPFER\n\nHK$‌2,160.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "METAL BUILD KÄMPFER\n\nHK$‌2,160.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "METAL BUILD KÄMPFER",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌2,160.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌2,160.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌2,160.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED\n\nHK$‌650.00\n\nPRE-ORDER",
+      "tag": ".c-product"
+    },
+    {
+      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED\n\nHK$‌650.00\n\nPRE-ORDER",
+      "tag": ".c-product__link"
+    },
+    {
+      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED\n\nHK$‌650.00\n\nPRE-ORDER",
+      "tag": ".c-product__text"
+    },
+    {
+      "text": "S.H.Figuarts (SHINKOCCHOU SEIHOU) SHINKEN RED",
+      "tag": ".c-product__title"
+    },
+    {
+      "text": "HK$‌650.00",
+      "tag": ".c-product__price"
+    },
+    {
+      "text": "HK$‌650.00",
+      "tag": ".c-product__price-currency"
+    },
+    {
+      "text": "‌650.00",
+      "tag": ".c-product__price-amount"
+    },
+    {
+      "text": "TOP",
+      "tag": ".l-footer-pageTop"
+    },
+    {
+      "text": "TOP",
+      "tag": ".l-footer-pageTop__text"
+    },
+    {
+      "text": "BACK TO TOP",
+      "tag": ".l-footer-top"
+    },
+    {
+      "text": "BACK TO TOP",
+      "tag": ".l-footer-top__text"
+    },
+    {
+      "text": "About Us\n\nWHAT IS PREMIUM BANDAI?\nSITE MAP",
+      "tag": ".l-footer-main__col"
+    },
+    {
+      "text": "About Us",
+      "tag": ".l-footer-main__title"
+    },
+    {
+      "text": "WHAT IS PREMIUM BANDAI?",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "SITE MAP",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "Company Information\n\nCOMPANY PROFILE\nSUSTAINABILITY",
+      "tag": ".l-footer-main__col"
+    },
+    {
+      "text": "Company Information",
+      "tag": ".l-footer-main__title"
+    },
+    {
+      "text": "COMPANY PROFILE",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "SUSTAINABILITY",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "User's Guide\n\nFAQS\nCONTACT US\nPAYMENT METHODS\nSHIPPING INFO\nRETURNS INFO\nSAFETY GUIDE",
+      "tag": ".l-footer-main__col"
+    },
+    {
+      "text": "User's Guide",
+      "tag": ".l-footer-main__title"
+    },
+    {
+      "text": "FAQS",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "CONTACT US",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "PAYMENT METHODS",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "SHIPPING INFO",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "RETURNS INFO",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "SAFETY GUIDE",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "Terms",
+      "tag": ".l-footer-main__title"
+    },
+    {
+      "text": "LEGAL NOTICE",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "TERMS OF USE",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "PURCHASE AGREEMENT",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "COOKIES SETTINGS",
+      "tag": ".optanon-show-settings.l-footer-main__list-link"
+    },
+    {
+      "text": "ACCESSIBILITY STATEMENT",
+      "tag": ".l-footer-main__list-link"
+    },
+    {
+      "text": "SOCIAL MEDIA",
+      "tag": ".l-footer-sns"
+    },
+    {
+      "text": "SOCIAL MEDIA",
+      "tag": ".l-footer-sns__title"
+    },
+    {
+      "text": "presented by Bandai Namco Group.\n\nCLICK FOR FULL COPYRIGHT INFORMATION\n(C) BANDAI SPIRITS 2018",
+      "tag": ".l-footer-bottom"
+    },
+    {
+      "text": "presented by Bandai Namco Group.\n\nCLICK FOR FULL COPYRIGHT INFORMATION\n(C) BANDAI SPIRITS 2018",
+      "tag": ".l-footer-bottom__inner"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-footer-bottom__logo"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-footer-bottom__logo-link"
+    },
+    {
+      "text": "presented by Bandai Namco Group.",
+      "tag": ".l-footer-bottom__logo-text"
+    },
+    {
+      "text": "CLICK FOR FULL COPYRIGHT INFORMATION\n(C) BANDAI SPIRITS 2018",
+      "tag": ".l-footer-bottom__text"
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": ".ot-cookie-policy-link"
+    },
+    {
+      "text": "Cookie Settings",
+      "tag": ".ot-sdk-three.ot-sdk-columns"
+    },
+    {
+      "text": "More information",
+      "tag": ".privacy-notice-link"
+    },
+    {
+      "text": "Strictly Necessary CookiesAlways Active",
+      "tag": ".ot-acc-hdr.ot-always-active-group"
+    },
+    {
+      "text": "Strictly Necessary Cookies",
+      "tag": ".ot-cat-header"
+    },
+    {
+      "text": "Always Active",
+      "tag": ".ot-always-active"
+    },
+    {
+      "text": "View Vendor Details",
+      "tag": ".ot-hlst-cntr"
+    },
+    {
+      "text": "Performance Cookies  Performance Cookies",
+      "tag": ".ot-acc-hdr"
+    },
+    {
+      "text": "Performance Cookies",
+      "tag": ".ot-cat-header"
+    },
+    {
+      "text": "Performance Cookies",
+      "tag": ".ot-tgl"
+    },
+    {
+      "text": "Performance Cookies",
+      "tag": ".ot-label-txt"
+    },
+    {
+      "text": "Functional Cookies  Functional Cookies",
+      "tag": ".ot-acc-hdr"
+    },
+    {
+      "text": "Functional Cookies",
+      "tag": ".ot-cat-header"
+    },
+    {
+      "text": "Functional Cookies",
+      "tag": ".ot-tgl"
+    },
+    {
+      "text": "Functional Cookies",
+      "tag": ".ot-label-txt"
+    },
+    {
+      "text": "Targeting Cookies  Targeting Cookies",
+      "tag": ".ot-acc-hdr"
+    },
+    {
+      "text": "Targeting Cookies",
+      "tag": ".ot-cat-header"
+    },
+    {
+      "text": "Targeting Cookies",
+      "tag": ".ot-tgl"
+    },
+    {
+      "text": "Targeting Cookies",
+      "tag": ".ot-label-txt"
+    },
+    {
+      "text": "Search IconFilter IconClear checkbox label labelApply Cancel",
+      "tag": ".ot-lst-subhdr"
+    },
+    {
+      "text": "Search Icon",
+      "tag": ".ot-search-cntr"
+    },
+    {
+      "text": "Filter Icon",
+      "tag": ".ot-fltr-cntr"
+    },
+    {
+      "text": "checkbox label label",
+      "tag": ".ot-chkbox"
+    },
+    {
+      "text": "checkbox label",
+      "tag": ".ot-label-txt"
+    },
+    {
+      "text": "label",
+      "tag": ".ot-label-status"
+    },
+    {
+      "text": "Apply Cancel",
+      "tag": ".ot-fltr-btns"
+    },
+    {
+      "text": "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+      "tag": ".ot-sel-all"
+    },
+    {
+      "text": "Consent Leg.Interest",
+      "tag": ".ot-sel-all-hdr"
+    },
+    {
+      "text": "Consent",
+      "tag": ".ot-consent-hdr"
+    },
+    {
+      "text": "Leg.Interest",
+      "tag": ".ot-li-hdr"
+    },
+    {
+      "text": "checkbox label label checkbox label label checkbox label label",
+      "tag": ".ot-sel-all-chkbox"
+    },
+    {
+      "text": "Confirm My Choices",
+      "tag": ".ot-pc-footer.ot-pc-scrollbar"
+    },
+    {
+      "text": "Confirm My Choices",
+      "tag": ".ot-btn-container"
     }
   ]
 }
