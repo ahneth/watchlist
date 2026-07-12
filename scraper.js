@@ -38,6 +38,11 @@ async function scrape() {
             name: "Bandai",
             url: "https://p-bandai.com/hk/search?limit=20&sortType=NewArrival&offset=0&_f_productStatuses=On,Waiting&_f_categories=04-004",
             selector: '.c-product'
+        },
+        {
+            name: "Hobbyland",
+            url: "https://www.hobbylandeshop.com/product-category/model_area/gundam_zone",
+            selector: '.q-px-sm.q-pb-sm'
         }
     ];
 
