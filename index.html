@@ -106,20 +106,35 @@
             flex-direction: column;
             justify-content: space-between;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            min-height: 110px;
         }
 
         .item-title {
             font-size: 1rem;
             font-weight: 600;
             line-height: 1.4;
-            margin: 0 0 12px 0;
+            margin: 0 0 16px 0;
             word-break: break-word;
+        }
+
+        /* Footer Alignment for Badge + Timestamp */
+        .item-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: auto;
+            gap: 8px;
+        }
+
+        .item-timestamp {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            white-space: nowrap;
         }
 
         /* Label Badges styling */
         .store-badge {
             display: inline-block;
-            align-self: flex-start;
             padding: 4px 8px;
             border-radius: 4px;
             font-size: 0.75rem;
@@ -193,6 +208,27 @@
         'Up-Next': 'modelkit'
     };
 
+    // Smart timestamp formatting layout
+    function formatCaptureTime(ts) {
+        if (!ts) return 'N/A';
+        try {
+            const date = new Date(ts);
+            // Fallback to raw data string if it's already a pre-formatted custom string
+            if (isNaN(date.getTime())) return ts; 
+            
+            // Outputs localized clean structure: "Jan 12, 18:35" or similar based on device format
+            return date.toLocaleString([], { 
+                month: 'short', 
+                day: 'numeric', 
+                hour: '2-digit', 
+                minute: '2-digit',
+                hour12: false 
+            });
+        } catch (e) {
+            return ts;
+        }
+    }
+
     async function loadData() {
         try {
             // Append a unique timestamp parameter to completely bypass aggressive browser caching
@@ -234,9 +270,15 @@
             const category = storeCategories[item.store] || 'bookstore';
             const badgeClass = category === 'modelkit' ? 'badge-modelkit' : 'badge-bookstore';
 
+            // Resolve the timestamp property (checks common variants like timestamp or capturedAt)
+            const timeData = item.timestamp || item.capturedAt || item.date || '';
+
             card.innerHTML = `
                 <h3 class="item-title">${item.title}</h3>
-                <span class="store-badge ${badgeClass}">${item.store}</span>
+                <div class="item-footer">
+                    <span class="store-badge ${badgeClass}">${item.store}</span>
+                    <span class="item-timestamp">${formatCaptureTime(timeData)}</span>
+                </div>
             `;
             container.appendChild(card);
         });
