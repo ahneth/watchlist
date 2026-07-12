@@ -271,7 +271,7 @@
             const badgeClass = category === 'modelkit' ? 'badge-modelkit' : 'badge-bookstore';
 
             // Resolve the timestamp property (checks common variants like timestamp or capturedAt)
-            const timeData = item.timestamp || item.capturedAt || item.date || '';
+            const timeData = item.DateFound || '';
 
             card.innerHTML = `
                 <h3 class="item-title">${item.title}</h3>
