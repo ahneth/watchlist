@@ -1,0 +1,41 @@
+name: Run Web Inspector
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Paste the URL you want to inspect'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  scan-page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Inspector
+        env:
+          TARGET_URL: ${{ github.event.inputs.url }}
+        run: node inspector.js
+
+      - name: Save Results
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add inspector.json
+          git commit -m "Update inspector results" || exit 0
+          git push
+          
