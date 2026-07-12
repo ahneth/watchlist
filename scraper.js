@@ -37,7 +37,7 @@ async function scrape() {
         {
             name: "Bandai",
             url: "https://p-bandai.com/hk/search?limit=20&sortType=NewArrival&offset=0&_f_productStatuses=On,Waiting&_f_categories=04-004",
-            selector: '.m-card__title, .m-product-card__title, .card-title, .product-name'
+            selector: '.c-product'
         }
     ];
 
