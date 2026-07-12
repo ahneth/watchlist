@@ -2,319 +2,253 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="theme-color" content="#ffffff">
-    <title>Store Monitor</title>
-    <!-- Use a clean, modern system font stack -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store Monitor Dashboard</title>
     <style>
         :root {
-            --bg-color: #f3f4f6;
+            --bg-color: #f4f4f5;
             --card-bg: #ffffff;
-            --text-main: #111827;
-            --text-muted: #6b7280;
-            --border-color: #e5e7eb;
-            --primary: #3b82f6;
+            --text-main: #18181b;
+            --text-muted: #71717a;
+            --border-color: #e4e4e7;
             
-            /* Store Colors */
-            --store-zbfghk: #f59e0b;
-            --store-zbfghk-bg: #fef3c7;
-            --store-bookone: #8b5cf6;
-            --store-bookone-bg: #ede9fe;
-            --store-bandai: #ef4444;
-            --store-bandai-bg: #fee2e2;
-
-            --store-books: #f59e0b;
-            --store-books-bg: #fef3c7;
-            --store-models: #8b5cf6;
-            --store-models-bg: #ede9fe;
-        }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            -webkit-tap-highlight-color: transparent;
+            /* Color Schemes for Store Labels */
+            --bookstore-bg: #e0f2fe;
+            --bookstore-text: #0369a1;
+            
+            --modelkit-bg: #fee2e2;
+            --modelkit-text: #b91c1c;
         }
 
         body {
-            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background-color: var(--bg-color);
             color: var(--text-main);
-            line-height: 1.5;
-            padding-bottom: 2rem; /* padding for scrolling */
+            margin: 0;
+            padding: 20px;
         }
 
-        /* Fixed Header */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
         header {
-            position: sticky;
-            top: 0;
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            margin: 0 0 16px 0;
+            font-size: 1.8rem;
+        }
+
+        /* Controls Layout (Dropdown + Search) */
+        .controls-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            background: var(--card-bg);
+            padding: 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            margin-bottom: 24px;
+        }
+
+        @media (min-width: 640px) {
+            .controls-wrapper {
+                flex-direction: row;
+                align-items: center;
+            }
+        }
+
+        .control-group {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-muted);
+        }
+
+        select, input[type="text"] {
+            width: 100%;
+            padding: 10px 12px;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+            font-size: 1rem;
             background-color: var(--card-bg);
-            border-bottom: 1px solid var(--border-color);
-            z-index: 100;
-            padding: 1rem;
+            color: var(--text-main);
+            box-sizing: border-box;
+        }
+
+        select:focus, input[type="text"]:focus {
+            outline: 2px solid #2563eb;
+            outline-offset: -1px;
+        }
+
+        /* Items Grid */
+        .items-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .item-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
         }
 
-        header h1 {
-            font-size: 1.25rem;
-            font-weight: 700;
-            margin-bottom: 0.25rem;
-        }
-
-        header p {
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            margin-bottom: 0.75rem;
-        }
-
-        /* Touch-Friendly Filter Chips */
-        .filter-container {
-            display: flex;
-            gap: 0.5rem;
-            overflow-x: auto;
-            padding-bottom: 0.5rem;
-            scrollbar-width: none; /* Hide scrollbar Firefox */
-        }
-        .filter-container::-webkit-scrollbar {
-            display: none; /* Hide scrollbar Chrome/Safari */
-        }
-
-        .filter-btn {
-            background-color: var(--bg-color);
-            color: var(--text-muted);
-            border: 1px solid transparent;
-            padding: 0.5rem 1rem;
-            border-radius: 9999px; /* Pill shape */
-            font-size: 0.875rem;
-            font-weight: 500;
-            white-space: nowrap;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-
-        .filter-btn.active {
-            background-color: var(--text-main);
-            color: #ffffff;
-        }
-
-        /* Feed Container */
-        .feed {
-            padding: 1rem;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-            max-width: 600px;
-            margin: 0 auto; /* Center on larger screens */
-        }
-
-        /* Mobile-First Item Card */
-        .card {
-            background-color: var(--card-bg);
-            border-radius: 12px;
-            padding: 1rem;
-            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-            border: 1px solid var(--border-color);
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-        }
-
-        .card-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .card-title {
+        .item-title {
             font-size: 1rem;
             font-weight: 600;
-            color: var(--text-main);
-            display: -webkit-box;
-            -webkit-line-clamp: 2; /* Truncate after 2 lines */
-            -webkit-box-orient: vertical;
-            overflow: hidden;
+            line-height: 1.4;
+            margin: 0 0 12px 0;
+            word-break: break-word;
         }
 
-        /* Store Badges */
-        .badge {
-            font-size: 0.75rem;
-            font-weight: 600;
-            padding: 0.25rem 0.5rem;
-            border-radius: 6px;
-            text-transform: uppercase;
-            letter-spacing: 0.025em;
-        }
-
-        .badge-zbfghk { color: var(--store-books); background-color: var(--store-books-bg); }
-        .badge-mybookone { color: var(--store-books); background-color: var(--store-books-bg); }
-        .badge-bandai { color: var(--store-models); background-color: var(--store-models-bg); }
-        .badge-hobbyland { color: var(--store-models); background-color: var(--store-models-bg); }
-        .badge-upnext { color: var(--store-models); background-color: var(--store-models-bg); }
-        
-        .card-footer {
-            display: flex;
-            align-items: center;
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            margin-top: 0.25rem;
-        }
-
-        /* Status/Loading Messages */
-        .status-message {
-            text-align: center;
-            padding: 2rem;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-        }
-
-        /* Skeleton Loader Animation */
-        .skeleton {
-            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
-            background-size: 200% 100%;
-            animation: shimmer 1.5s infinite;
+        /* Label Badges styling */
+        .store-badge {
+            display: inline-block;
+            align-self: flex-start;
+            padding: 4px 8px;
             border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
-        .skeleton-text { height: 1.2rem; width: 100%; margin-bottom: 0.5rem; }
-        .skeleton-text.short { width: 60%; }
-        .skeleton-badge { height: 1.5rem; width: 4rem; border-radius: 6px; }
 
-        @keyframes shimmer {
-            0% { background-position: 200% 0; }
-            100% { background-position: -200% 0; }
+        /* Dynamic Badge Classes via JS */
+        .badge-bookstore {
+            background-color: var(--bookstore-bg);
+            color: var(--bookstore-text);
+        }
+
+        .badge-modelkit {
+            background-color: var(--modelkit-bg);
+            color: var(--modelkit-text);
+        }
+
+        .no-results {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 40px;
+            color: var(--text-muted);
+            font-size: 1.1rem;
         }
     </style>
 </head>
 <body>
 
+<div class="container">
     <header>
-        <h1>New Arrivals</h1>
-        
-        <div class="filter-container" id="filters">
-            <button class="filter-btn active" data-filter="All">All</button>
-            <button class="filter-btn" data-filter="Zbfghk">Zbfghk</button>
-            <button class="filter-btn" data-filter="MyBookOne">MyBookOne</button>
-            <button class="filter-btn" data-filter="Bandai">Bandai</button>
-            <button class="filter-btn" data-filter="Hobbyland">Hobbyland</button>
-            <button class="filter-btn" data-filter="Up-Next">Up-Next</button>
-        </div>
+        <h1>Store Monitor Dashboard</h1>
     </header>
 
-    <main class="feed" id="feed-container">
-        <!-- Loading State -->
-        <div class="card">
-            <div class="card-header"><div class="skeleton skeleton-badge"></div></div>
-            <div class="skeleton skeleton-text"></div>
-            <div class="skeleton skeleton-text short"></div>
+    <!-- Filters and Smart Search Configuration -->
+    <div class="controls-wrapper">
+        <div class="control-group">
+            <label for="store-select">Filter by Store</label>
+            <select id="store-select">
+                <option value="all">All Stores</option>
+                <option value="Zbfghk">Zbfghk</option>
+                <option value="MyBookOne">MyBookOne</option>
+                <option value="Bandai">Bandai</option>
+                <option value="Hobbyland">Hobbyland</option>
+                <option value="Up-Next">Up-Next</option>
+            </select>
         </div>
-        <div class="card">
-            <div class="card-header"><div class="skeleton skeleton-badge"></div></div>
-            <div class="skeleton skeleton-text"></div>
-            <div class="skeleton skeleton-text short"></div>
+
+        <div class="control-group">
+            <label for="search-input">Smart Text Search</label>
+            <input type="text" id="search-input" placeholder="Type to filter titles dynamically...">
         </div>
-    </main>
+    </div>
 
-    <script>
-        let allItems = []; // Store the global database here
-        const feedContainer = document.getElementById('feed-container');
-        const filterBtns = document.querySelectorAll('.filter-btn');
+    <!-- Live Items Grid -->
+    <div class="items-grid" id="items-container">
+        <!-- Loaded dynamically via JavaScript -->
+    </div>
+</div>
 
-        // Helper to get CSS classes based on store string
-        function getStoreBadgeData(storeName) {
-            const nameLower = storeName.toLowerCase();
-            if (nameLower.includes('zbfghk')) return { class: 'badge-zbfghk', label: 'Zbfghk' };
-            if (nameLower.includes('mybookone')) return { class: 'badge-mybookone', label: 'MyBookOne' };
-            if (nameLower.includes('bandai')) return { class: 'badge-bandai', label: 'Bandai' };
-            if (nameLower.includes('hobbyland')) return { class: 'badge-hobbyland', label: 'Hobbyland' };
-            if (nameLower.includes('up-next')) return { class: 'badge-upnext', label: 'Up-Next' };
-            return { class: '', label: storeName };
+<script>
+    let allItems = [];
+
+    // Categorize store profiles to apply dedicated color schemes
+    const storeCategories = {
+        'Zbfghk': 'bookstore',
+        'MyBookOne': 'bookstore',
+        'Bandai': 'modelkit',
+        'Hobbyland': 'modelkit',
+        'Up-Next': 'modelkit'
+    };
+
+    async function loadData() {
+        try {
+            // Append a unique timestamp parameter to completely bypass aggressive browser caching
+            const response = await fetch(`data.json?t=${new Date().getTime()}`);
+            allItems = await response.json();
+            renderItems();
+        } catch (error) {
+            console.error("Error loading structural data:", error);
+            document.getElementById('items-container').innerHTML = `
+                <div class="no-results">Failed to fetch recent data updates. Please run your script first.</div>
+            `;
         }
+    }
 
-        // Format dates cleanly (e.g., "Jul 12, 14:30")
-        function formatRelativeDate(isoString) {
-            const date = new Date(isoString);
-            const options = { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false };
-            return date.toLocaleDateString('en-US', options);
-        }
+    function renderItems() {
+        const storeFilter = document.getElementById('store-select').value;
+        const searchQuery = document.getElementById('search-input').value.toLowerCase().trim();
+        const container = document.getElementById('items-container');
+        
+        container.innerHTML = '';
 
-        // Render HTML for the items array
-        function renderFeed(items) {
-            feedContainer.innerHTML = ''; // Clear loading/existing items
-
-            if (items.length === 0) {
-                feedContainer.innerHTML = `
-                    <div class="status-message">
-                        <svg style="width:48px;height:48px;margin:0 auto 1rem;color:#d1d5db;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"></path></svg>
-                        <p>No items found for this filter.</p>
-                    </div>`;
-                return;
-            }
-
-            items.forEach(item => {
-                const badgeData = getStoreBadgeData(item.store);
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.innerHTML = `
-                    <div class="card-header">
-                        <span class="badge ${badgeData.class}">${badgeData.label}</span>
-                    </div>
-                    <div class="card-title">${item.title}</div>
-                    <div class="card-footer">
-                        <svg style="width:14px;height:14px;margin-right:4px;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                        Found: ${formatRelativeDate(item.dateFound)}
-                    </div>
-                `;
-                feedContainer.appendChild(card);
-            });
-        }
-
-        // Handle Filter Logic
-        filterBtns.forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                // Remove active state from all, add to clicked
-                filterBtns.forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-
-                const filterValue = e.target.getAttribute('data-filter');
-                
-                // Filter data
-                if (filterValue === 'All') {
-                    renderFeed(allItems);
-                } else {
-                    const filteredData = allItems.filter(item => 
-                        item.store.toLowerCase().includes(filterValue.toLowerCase())
-                    );
-                    renderFeed(filteredData);
-                }
-            });
+        // Unified filtering evaluation logic
+        const filteredItems = allItems.filter(item => {
+            const matchesStore = (storeFilter === 'all' || item.store === storeFilter);
+            const matchesSearch = item.title.toLowerCase().includes(searchQuery);
+            return matchesStore && matchesSearch;
         });
 
-        // Load Data from GitHub JSON
-        async function loadData() {
-            try {
-                // Cache buster included
-                const response = await fetch(`data.json?t=${new Date().getTime()}`);
-                if (!response.ok) throw new Error("Data fetch failed");
-                
-                allItems = await response.json();
-                
-                if (!Array.isArray(allItems)) allItems = [];
-                
-                // Trigger initial render with 'All' filter
-                renderFeed(allItems);
-                
-            } catch (error) {
-                feedContainer.innerHTML = `
-                    <div class="status-message">
-                        <p>Database is empty or could not be loaded.</p>
-                        <p style="font-size:0.8rem; margin-top:0.5rem;">The GitHub Action scraper might need to run first.</p>
-                    </div>`;
-            }
+        if (filteredItems.length === 0) {
+            container.innerHTML = '<div class="no-results">No tracked items match your current filter preferences.</div>';
+            return;
         }
 
-        // Initialize App
-        loadData();
-    </script>
+        filteredItems.forEach(item => {
+            const card = document.createElement('div');
+            card.className = 'item-card';
+
+            // Determine correct semantic CSS color assignment badge profiles
+            const category = storeCategories[item.store] || 'bookstore';
+            const badgeClass = category === 'modelkit' ? 'badge-modelkit' : 'badge-bookstore';
+
+            card.innerHTML = `
+                <h3 class="item-title">${item.title}</h3>
+                <span class="store-badge ${badgeClass}">${item.store}</span>
+            `;
+            container.appendChild(card);
+        });
+    }
+
+    // Interactive event binding configurations
+    document.getElementById('store-select').addEventListener('change', renderItems);
+    document.getElementById('search-input').addEventListener('input', renderItems);
+
+    // Bootstrap data layout execution
+    loadData();
+</script>
+
 </body>
 </html>
