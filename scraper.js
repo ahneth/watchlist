@@ -28,7 +28,7 @@ async function scrape() {
         },
         {
             name: "MyBookOne",
-            url: "https://www.mybookone.com.hk/wapapp/index/index.html#/app/searchResultV2?sortField=_score&isSortAsc=false&keyCode=%E8%A7%92%E5%B7%9D%20%E6%9D%B1%E7%AB%8B%20%E5%B0%96%E7%AB%AF%20%E7%8E%89%E7%9A%87%E6%9C%9D%20%E6%96%87%E5%8C%96%E5%82%B3%E4%BF%A1%20%E5%A4%A9%E5%85%89%20%E9%9D%92%E6%96%87%20%E9%81%A0%E6%B5%81",
+            url: "https://www.mybookone.com.hk/wapapp/index/index.html#/app/searchResultV2?sortField=searchDate&isSortAsc=false&keyCode=%E8%A7%92%E5%B7%9D%20%E6%9D%B1%E7%AB%8B%20%E5%B0%96%E7%AB%AF%20%E7%8E%89%E7%9A%87%E6%9C%9D%20%E6%96%87%E5%8C%96%E5%82%B3%E4%BF%A1%20%E5%A4%A9%E5%85%89%20%E9%9D%92%E6%96%87%20%E9%81%A0%E6%B5%81",
             selector: '.book_title_box'
         },
         {
