@@ -60,8 +60,8 @@ async function scrape() {
             await new Promise(r => setTimeout(r, 10000));
 
             // TAKE A SCREENSHOT FOR DEBUGGING
-            await page.screenshot({ path: `${store.name}.png`, fullPage: true });
-            console.log(`Saved screenshot for ${store.name}`);
+            //await page.screenshot({ path: `${store.name}.png`, fullPage: true });
+            //console.log(`Saved screenshot for ${store.name}`);
 
             const items = await page.evaluate((sel) => {
                 const elements = document.querySelectorAll(sel);
