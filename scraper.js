@@ -48,6 +48,11 @@ async function scrape() {
             name: "Up-Next",
             url: "https://zh.up-next.com.hk/collections/model-kit/Bandai",
             selector: '.info'
+        },
+        {
+            name: "Kadokawa TW",
+            url: "https://www.kadokawa.com.tw/categories/%E6%BC%AB%E7%95%AB-2?limit=72"
+            selector: '.product-item'
         }
     ];
 
