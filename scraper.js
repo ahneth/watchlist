@@ -51,9 +51,14 @@ async function scrape() {
         },
         {
             name: "Kadokawa TW",
-            url: "https://www.kadokawa.com.tw/categories/%E6%BC%AB%E7%95%AB-2?limit=72"
+            url: "https://www.kadokawa.com.tw/categories/%E6%BC%AB%E7%95%AB-2?limit=72",
             selector: '.product-item'
-        }
+        },
+        {
+            name: "TLComics HK",
+            url: "https://www.tlcomics.com/categories/%E4%BD%9C%E5%93%81%E5%88%86%E9%A1%9E?sort_by=created_at&order_by=desc&limit=72",
+            selector: '.Product-info'
+        }   
     ];
 
     for (let store of stores) {
