@@ -48,7 +48,9 @@ async function scrape() {
             name: "Up-Next",
             url: "https://zh.up-next.com.hk/collections/model-kit/Bandai",
             selector: '.info'
-        },
+        }
+        /*
+        ,
         {
             name: "Kadokawa TW",
             url: "https://www.kadokawa.com.tw/categories/%E7%94%B7%E6%80%A7%E5%90%91?limit=72&sort_by=created_at&order_by=desc",
@@ -58,7 +60,8 @@ async function scrape() {
             name: "TLComics HK",
             url: "https://www.tlcomics.com/categories/%E5%B0%91%E5%B9%B4?limit=72&sort_by=created_at&order_by=desc",
             selector: '.Product-info'
-        }   
+        }
+        */
     ];
 
     for (let store of stores) {
