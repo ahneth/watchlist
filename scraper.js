@@ -51,12 +51,12 @@ async function scrape() {
         },
         {
             name: "Kadokawa TW",
-            url: "https://www.kadokawa.com.tw/categories/%E6%BC%AB%E7%95%AB-2?limit=72",
+            url: "https://www.kadokawa.com.tw/categories/%E7%94%B7%E6%80%A7%E5%90%91?limit=72&sort_by=created_at&order_by=desc",
             selector: '.product-item'
         },
         {
             name: "TLComics HK",
-            url: "https://www.tlcomics.com/categories/%E4%BD%9C%E5%93%81%E5%88%86%E9%A1%9E?sort_by=created_at&order_by=desc&limit=72",
+            url: "https://www.tlcomics.com/categories/%E5%B0%91%E5%B9%B4?limit=72&sort_by=created_at&order_by=desc",
             selector: '.Product-info'
         }   
     ];
@@ -65,7 +65,7 @@ async function scrape() {
         try {
             console.log(`Visiting ${store.name}...`);
             await page.goto(store.url, { waitUntil: 'networkidle2', timeout: 60000 });
-            
+            1
             // Wait 10 full seconds for dynamic items to appear
             await new Promise(r => setTimeout(r, 10000));
 
