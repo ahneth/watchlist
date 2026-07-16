@@ -1,4 +1,897 @@
 {
   "url": "https://zh.up-next.com.hk/collections/model-kit",
-  "data": []
+  "data": [
+    {
+      "text": "UP-NEXT HK ONLINE STORE",
+      "tag": ".custom-h1"
+    },
+    {
+      "text": "即時對話\n \nBLOG\n \n門市店鋪\n \n登入\n \n 購物車 (0)\n \n結帳\n \nEnglish\n繁體中文",
+      "tag": ".top_bar.top_bar--fixed-false"
+    },
+    {
+      "text": "即時對話\n \nBLOG\n \n門市店鋪\n \n登入\n \n 購物車 (0)\n \n結帳\n \nEnglish\n繁體中文",
+      "tag": ".container"
+    },
+    {
+      "text": "即時對話\n \nBLOG\n \n門市店鋪\n \n登入\n \n 購物車 (0)\n \n結帳\n \nEnglish\n繁體中文",
+      "tag": ".columns.twelve"
+    },
+    {
+      "text": "購物車 (0)",
+      "tag": ".cart_button"
+    },
+    {
+      "text": "English\n繁體中文",
+      "tag": ".ly-custom-768"
+    },
+    {
+      "text": "English\n繁體中文",
+      "tag": ".ly-switcher-wrapper.ly-breakpoint-2.custom.ly-custom"
+    },
+    {
+      "text": "English繁體中文",
+      "tag": ".ly-switcher-wrapper.ly-breakpoint-1.custom.ly-custom"
+    },
+    {
+      "text": "   ✉",
+      "tag": ".sixteen.columns.logo.header-logo"
+    },
+    {
+      "text": "   ✉",
+      "tag": ".header_icons"
+    },
+    {
+      "text": "系列\n \n卡通動漫人物\n \n玩具、模型、人偶\n \nTCG 卡牌遊戲\n \n家居生活精品\n \n智能電話週邊配件",
+      "tag": ".sixteen.columns.clearfix"
+    },
+    {
+      "text": "Menu",
+      "tag": ".slicknav_btn.slicknav_collapsed"
+    },
+    {
+      "text": "Menu",
+      "tag": ".slicknav_menutxt"
+    },
+    {
+      "text": "Brands",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Brands",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Sort By Budget",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Sort By Budget",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Seasonal",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Seasonal",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "卡通動漫人物",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "卡通動漫人物",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "迪士尼人物",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "迪士尼人物",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Japanese Anime",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Japanese Anime",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Sanrio",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Sanrio",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "San-X",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "San-X",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "玩具、模型、人偶",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "玩具、模型、人偶",
+      "tag": ".sub-menu.active"
+    },
+    {
+      "text": "Model Kit",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Model Kit",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Paper Theater",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Paper Theater",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Puzzle",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Puzzle",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "TCG 卡牌遊戲",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "TCG 卡牌遊戲",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "One Piece TCG",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "One Piece TCG",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "家居生活精品",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "家居生活精品",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Pop Art Drawing Wall Poster",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Pop Art Drawing Wall Poster",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "智能電話週邊配件",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "智能電話週邊配件",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "Cartoon Phone Case",
+      "tag": ".slicknav_item.slicknav_row"
+    },
+    {
+      "text": "Cartoon Phone Case",
+      "tag": ".sub-menu"
+    },
+    {
+      "text": "系列\n \n卡通動漫人物\n \n玩具、模型、人偶\n \nTCG 卡牌遊戲\n \n家居生活精品\n \n智能電話週邊配件",
+      "tag": ".nav-align--center.nav-border--double.nav-separator--solid"
+    },
+    {
+      "text": "模型\nHome  模型  Page 1 of 33\n排序方式: \n精選\n最暢銷\n按字母順序：AZ\n按字母順序：ZA\n價格：從低到高\n價格：從高到低\n日期：從新到舊\n日期：從舊到新",
+      "tag": ".sixteen.columns"
+    },
+    {
+      "text": "模型\nHome  模型  Page 1 of 33\n排序方式: \n精選\n最暢銷\n按字母順序：AZ\n按字母順序：ZA\n價格：從低到高\n價格：從高到低\n日期：從新到舊\n日期：從舊到新",
+      "tag": ".section.clearfix"
+    },
+    {
+      "text": "Home  模型  Page 1 of 33",
+      "tag": ".breadcrumb.eight.columns.alpha"
+    },
+    {
+      "text": "排序方式: \n精選\n最暢銷\n按字母順序：AZ\n按字母順序：ZA\n價格：從低到高\n價格：從高到低\n日期：從新到舊\n日期：從舊到新",
+      "tag": ".eight.columns.section_select.omega"
+    },
+    {
+      "text": "排序方式: \n精選\n最暢銷\n按字母順序：AZ\n按字母順序：ZA\n價格：從低到高\n價格：從高到低\n日期：從新到舊\n日期：從舊到新",
+      "tag": ".filter_wrap"
+    },
+    {
+      "text": "MAIN MENU",
+      "tag": ".toggle"
+    },
+    {
+      "text": "Model Kit",
+      "tag": ".active"
+    },
+    {
+      "text": "需要協助?",
+      "tag": ".toggle"
+    },
+    {
+      "text": "HGBF 1/144 卡碧尼 巴比倫\n$159.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "HGBF 1/144 卡碧尼 巴比倫\n$159.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HGBF 1/144 卡碧尼 巴比倫",
+      "tag": ".title"
+    },
+    {
+      "text": "$159.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$159.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HGUC 1/144 獨角獸高達 3號機 鳳凰(毀滅模式)[NT劇場版Ver.]\n$199.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "HGUC 1/144 獨角獸高達 3號機 鳳凰(毀滅模式)[NT劇場版Ver.]\n$199.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HGUC 1/144 獨角獸高達 3號機 鳳凰(毀滅模式)[NT劇場版Ver.]",
+      "tag": ".title"
+    },
+    {
+      "text": "$199.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$199.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 鐵球 Ver. Ka\n$160.00",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "MG 1/100 鐵球 Ver. Ka\n$160.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 鐵球 Ver. Ka",
+      "tag": ".title"
+    },
+    {
+      "text": "$160.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$160.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 高達 GP01-Fb\n$340.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 高達 GP01-Fb\n$340.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 高達 GP01-Fb",
+      "tag": ".title"
+    },
+    {
+      "text": "$340.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$340.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HGBF 1/144 高達 X 魔王\n$169.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "HGBF 1/144 高達 X 魔王\n$169.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HGBF 1/144 高達 X 魔王",
+      "tag": ".title"
+    },
+    {
+      "text": "$169.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$169.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 高達 NT-1 Ver.2.0\n$369.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 高達 NT-1 Ver.2.0\n$369.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 高達 NT-1 Ver.2.0",
+      "tag": ".title"
+    },
+    {
+      "text": "$369.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$369.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HGUC 1/35 地球連邦軍 核戰機\n$358.00",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "HGUC 1/35 地球連邦軍 核戰機\n$358.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HGUC 1/35 地球連邦軍 核戰機",
+      "tag": ".title"
+    },
+    {
+      "text": "$358.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$358.00",
+      "tag": ".money"
+    },
+    {
+      "text": "宇宙戰艦大和號3199 1/1000 DX套裝\n$999.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "宇宙戰艦大和號3199 1/1000 DX套裝\n$999.00",
+      "tag": ".info"
+    },
+    {
+      "text": "宇宙戰艦大和號3199 1/1000 DX套裝",
+      "tag": ".title"
+    },
+    {
+      "text": "$999.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$999.00",
+      "tag": ".money"
+    },
+    {
+      "text": "精靈寶可夢模型系列 帝牙盧卡 套裝\n$229.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "精靈寶可夢模型系列 帝牙盧卡 套裝\n$229.00",
+      "tag": ".info"
+    },
+    {
+      "text": "精靈寶可夢模型系列 帝牙盧卡 套裝",
+      "tag": ".title"
+    },
+    {
+      "text": "$229.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$229.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 自由迷惘高達 紅色機\n$499.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 自由迷惘高達 紅色機\n$499.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 自由迷惘高達 紅色機",
+      "tag": ".title"
+    },
+    {
+      "text": "$499.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$499.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HG 1/144 古鐵巨人\n$429.00",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "HG 1/144 古鐵巨人\n$429.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 古鐵巨人",
+      "tag": ".title"
+    },
+    {
+      "text": "$429.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$429.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 G戰機及高達 Ver.2.0 實戰配色版\n$699.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 G戰機及高達 Ver.2.0 實戰配色版\n$699.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 G戰機及高達 Ver.2.0 實戰配色版",
+      "tag": ".title"
+    },
+    {
+      "text": "$699.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$699.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 高達 GP01\n$179.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "MG 1/100 高達 GP01\n$179.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 高達 GP01",
+      "tag": ".title"
+    },
+    {
+      "text": "$179.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$179.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 高達 GP02A\n$269.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 高達 GP02A\n$269.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 高達 GP02A",
+      "tag": ".title"
+    },
+    {
+      "text": "$269.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$269.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 雪崩型高達艾斯亞\n$488.00",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "MG 1/100 雪崩型高達艾斯亞\n$488.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 雪崩型高達艾斯亞",
+      "tag": ".title"
+    },
+    {
+      "text": "$488.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$488.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HG 1/144 聯合旗熾式 (古拉哈姆專用機)\n$159.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "HG 1/144 聯合旗熾式 (古拉哈姆專用機)\n$159.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 聯合旗熾式 (古拉哈姆專用機)",
+      "tag": ".title"
+    },
+    {
+      "text": "高達模型改造部件 MS 推進器排氣 01\n$36.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "高達模型改造部件 MS 推進器排氣 01\n$36.00",
+      "tag": ".info"
+    },
+    {
+      "text": "高達模型改造部件 MS 推進器排氣 01",
+      "tag": ".title"
+    },
+    {
+      "text": "$36.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$36.00",
+      "tag": ".money"
+    },
+    {
+      "text": "30分鐘偏愛系列 天童愛麗絲 (女僕裝)\n售罄",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "30分鐘偏愛系列 天童愛麗絲 (女僕裝)\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "30分鐘偏愛系列 天童愛麗絲 (女僕裝)",
+      "tag": ".title"
+    },
+    {
+      "text": "30分鐘偏愛系列 強力夏美 & GIRORO伍長\n售罄",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "30分鐘偏愛系列 強力夏美 & GIRORO伍長\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "30分鐘偏愛系列 強力夏美 & GIRORO伍長",
+      "tag": ".title"
+    },
+    {
+      "text": "HG 新 TAMAMA 二等兵機械人\n售罄",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "HG 新 TAMAMA 二等兵機械人\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 新 TAMAMA 二等兵機械人",
+      "tag": ".title"
+    },
+    {
+      "text": "HG 新 DORORO 兵長機械人\n售罄",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "HG 新 DORORO 兵長機械人\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 新 DORORO 兵長機械人",
+      "tag": ".title"
+    },
+    {
+      "text": "HG 新 GIRORO 伍長 機械人\n售罄",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "HG 新 GIRORO 伍長 機械人\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 新 GIRORO 伍長 機械人",
+      "tag": ".title"
+    },
+    {
+      "text": "HG 新 KURURU 曹長 機械人\n售罄",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "HG 新 KURURU 曹長 機械人\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 新 KURURU 曹長 機械人",
+      "tag": ".title"
+    },
+    {
+      "text": "HG 1/144 阿斯特龍高達\n$279.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "HG 1/144 阿斯特龍高達\n$279.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 阿斯特龍高達",
+      "tag": ".title"
+    },
+    {
+      "text": "$279.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$279.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HG 1/144 華沙哥高達\n$219.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "HG 1/144 華沙哥高達\n$219.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 華沙哥高達",
+      "tag": ".title"
+    },
+    {
+      "text": "$219.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$219.00",
+      "tag": ".money"
+    },
+    {
+      "text": "精靈寶可夢模型系列 黑色超級烈空坐\n$259.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "精靈寶可夢模型系列 黑色超級烈空坐\n$259.00",
+      "tag": ".info"
+    },
+    {
+      "text": "精靈寶可夢模型系列 黑色超級烈空坐",
+      "tag": ".title"
+    },
+    {
+      "text": "$259.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$259.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 陸戰型高達\n$249.00",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "MG 1/100 陸戰型高達\n$249.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 陸戰型高達",
+      "tag": ".title"
+    },
+    {
+      "text": "$249.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$249.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HG 1/144 突擊羅亞高達\n$129.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "HG 1/144 突擊羅亞高達\n$129.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 突擊羅亞高達",
+      "tag": ".title"
+    },
+    {
+      "text": "$129.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$129.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HGUC 1/144 拜亞蘭\n$179.00",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "HGUC 1/144 拜亞蘭\n$179.00",
+      "tag": ".info"
+    },
+    {
+      "text": "HGUC 1/144 拜亞蘭",
+      "tag": ".title"
+    },
+    {
+      "text": "MG 1/100 G戰機全強化裝備 Ver 2.0\n$399.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 G戰機全強化裝備 Ver 2.0\n$399.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 G戰機全強化裝備 Ver 2.0",
+      "tag": ".title"
+    },
+    {
+      "text": "$399.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$399.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 高達華塞亞\n售罄",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "MG 1/100 高達華塞亞\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 高達華塞亞",
+      "tag": ".title"
+    },
+    {
+      "text": "MG 1/100 惡魔高達 EW Ver.\n$289.00",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 惡魔高達 EW Ver.\n$289.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 惡魔高達 EW Ver.",
+      "tag": ".title"
+    },
+    {
+      "text": "$289.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$289.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HG 1/144 觀星者高達\n售罄",
+      "tag": ".three.columns.alpha.thumbnail.even"
+    },
+    {
+      "text": "HG 1/144 觀星者高達\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 觀星者高達",
+      "tag": ".title"
+    },
+    {
+      "text": "MG 1/100 全覆式海盜高達\n$299.00",
+      "tag": ".three.columns.thumbnail.odd"
+    },
+    {
+      "text": "MG 1/100 全覆式海盜高達\n$299.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 全覆式海盜高達",
+      "tag": ".title"
+    },
+    {
+      "text": "$299.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$299.00",
+      "tag": ".money"
+    },
+    {
+      "text": "MG 1/100 GN-X 高達\n$245.00",
+      "tag": ".three.columns.thumbnail.even"
+    },
+    {
+      "text": "MG 1/100 GN-X 高達\n$245.00",
+      "tag": ".info"
+    },
+    {
+      "text": "MG 1/100 GN-X 高達",
+      "tag": ".title"
+    },
+    {
+      "text": "$245.00",
+      "tag": ".price"
+    },
+    {
+      "text": "$245.00",
+      "tag": ".money"
+    },
+    {
+      "text": "HG 1/144 葛琳潔德\n售罄",
+      "tag": ".three.columns.omega.thumbnail.odd"
+    },
+    {
+      "text": "HG 1/144 葛琳潔德\n售罄",
+      "tag": ".info"
+    },
+    {
+      "text": "HG 1/144 葛琳潔德",
+      "tag": ".title"
+    },
+    {
+      "text": "1 2 3 … 33 下一步 »",
+      "tag": ".sixteen.columns"
+    },
+    {
+      "text": "1 2 3 … 33 下一步 »",
+      "tag": ".section.clearfix"
+    },
+    {
+      "text": "1 2 3 … 33 下一步 »",
+      "tag": ".paginate"
+    },
+    {
+      "text": "下一步 »",
+      "tag": ".next"
+    },
+    {
+      "text": "GET TO KNOW US!\n搜尋\n關於我們\n常見問題\n隱私政策\n退貨政策\n送貨方式\n條款及細則",
+      "tag": ".three.columns.alpha.footer_menu_vertical"
+    },
+    {
+      "text": "訂閱我們的新聞通訊\n\n訂閱我們的時事通訊，總是能第一時間了解最新動態。\n\n \n   ✉",
+      "tag": ".ten.columns.center"
+    },
+    {
+      "text": "© 2026 Up-Next HK Online Store | Cartoon & Anime Character Gifts & Toys. Up-Next is 由 Shopify 技術支援",
+      "tag": ".credits"
+    }
+  ]
 }
