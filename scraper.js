@@ -36,6 +36,11 @@ async function scrape() {
             selector: '.book_title_box'
         },
         {
+            name: "HKRoadsideStand",
+            url: "https://hkroadsidestand.org/collections/%E6%BC%AB%E7%95%AB?sort_by=created-descending",
+            selector: '.card__content'
+        },
+        {
             name: "Bandai",
             url: "https://p-bandai.com/hk/search?limit=20&sortType=NewArrival&offset=0&_f_productStatuses=On,Waiting&_f_categories=04-004",
             selector: '.c-product'
